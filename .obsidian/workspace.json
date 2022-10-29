@@ -1,0 +1,152 @@
+{
+  "main": {
+    "id": "bd2fe29dc3aebc0b",
+    "type": "split",
+    "children": [
+      {
+        "id": "934900aed0cff3c4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "41f59c99d82a3928",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bucketboy.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1ca01dac323698fd",
+    "type": "split",
+    "children": [
+      {
+        "id": "ae10b133182e59f8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "12451dd653c5cb58",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c0c7032b1df0b951",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "714d5f6004894892",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8461158dd26a33d9",
+    "type": "split",
+    "children": [
+      {
+        "id": "9cc806341105cefd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "39958dedf868b5ce",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Bucketboy.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "41aeefb658f0aea4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Bucketboy.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "19bfdfadd269ed09",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a714b7c65371b268",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Bucketboy.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "41f59c99d82a3928",
+  "lastOpenFiles": [
+    "Bucketboy.md",
+    "Tale 7.md",
+    "Tale 6.md",
+    "Tale 50.md",
+    "Adventure Choice 2.md",
+    "Tale 49.md",
+    "Tale 48.md",
+    "Tale 47.md",
+    "Tale 46.md",
+    "Adventure Choice 1.md"
+  ]
+}

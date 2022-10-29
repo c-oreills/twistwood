@@ -1,0 +1,20 @@
+{
+  "obsidian-hotkeys-for-templates:Tale.md": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "T"
+    }
+  ],
+  "obsidian-hotkeys-for-templates:Character.md": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "C"
+    }
+  ]
+}

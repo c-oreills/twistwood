@@ -1,0 +1,140 @@
+{
+  "main": {
+    "id": "1a639ccec7bfd308",
+    "type": "split",
+    "children": [
+      {
+        "id": "b064b399095018df",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "20685ee0746a8ae7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Grim.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5afcfb5ba0285bf1",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "20df75b7711a0139",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "93847594e5d92352",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "4b0ce40f54969ffe",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "a25686360939f26e",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "b8d73da5e17b4be0",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "b6bd1d6128efe197",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Grim.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "821654bd93916732",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Grim.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "10be86cf3425e394",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Grim.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "ribbon": {
+    "mostRecentAction": "Open command palette"
+  },
+  "active": "20685ee0746a8ae7",
+  "lastOpenFiles": [
+    "Tale 7.md",
+    "Bailey.md",
+    "Grim.md",
+    "Bucketboy.md",
+    "Tale 9.md",
+    "Tale 8.md",
+    "Tale 6.md",
+    "Tale 5.md",
+    "Minor Characters.md",
+    "Train.md"
+  ]
+}

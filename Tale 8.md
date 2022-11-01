@@ -1,5 +1,5 @@
 # Synopsis
-Mausa runs through tall grass in the rain, holding her hat to her head in one hand and a bag in the other. As she crosses a stream with a twig bridge, the rain intensifies.
+[[Minor Characters#Mousa|Mousa]] runs through tall grass in the rain, holding her hat to her head in one hand and a bag in the other. As she crosses a stream with a twig bridge, the rain intensifies.
 
 She runs down a path towards a tree with windows and a door at the base. Firelight is visible from inside.
 

@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tale 10.md",
-                "mode": "preview",
+                "file": "Bathtub Baby Bear.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Tale 10.md",
+            "file": "Bathtub Baby Bear.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Tale 10.md",
+            "file": "Bathtub Baby Bear.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,27 +114,24 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Tale 10.md"
+            "file": "Bathtub Baby Bear.md"
           }
         }
       }
     ],
     "currentTab": 0
   },
-  "ribbon": {
-    "mostRecentAction": "Open command palette"
-  },
   "active": "20685ee0746a8ae7",
   "lastOpenFiles": [
-    "Loghead.md",
+    "Tale 12.md",
+    "Lute Girl.md",
     "Tale 11.md",
-    "Bucket Boy.md",
     "Tale 10.md",
-    "Rock Girl.md",
+    "Tale 6.md",
     "Tale 7.md",
-    "Tale 8.md",
     "Tale 9.md",
-    "Bailey.md",
-    "Grim.md"
+    "Tale 5.md",
+    "Tale 8.md",
+    "Loghead.md"
   ]
 }

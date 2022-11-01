@@ -3,7 +3,7 @@ A Murderbear is chasing a woman and a man, who scream a warning to run. The Murd
 
 The Pond has the power to transform whatever dips into it into the previous thing which dipped into it. The Murderbear transforms into a pigeon and is confused.
 
-As the pigeon flies away, the woman and man walk off in relief, saying "All's well that ends well". However, the [[Bathtub Baby]] crests a waterfall which flows into the Enchanted Pond. It's implied that they will transform into the Murderbear when they fall in the pond.
+As the pigeon flies away, the woman and man walk off in relief, saying "All's well that ends well". However, the [[Bathtub Baby Bear|Bathtub Baby]] crests a waterfall which flows into the Enchanted Pond. It's implied that they will transform into the Murderbear when they fall in the pond.
 
 # Interpretation
 Commenters have questioned how the Enchanted Pond came to be and what happened to the first thing that dipped into it.

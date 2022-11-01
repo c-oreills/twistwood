@@ -11,6 +11,42 @@
             "id": "41f59c99d82a3928",
             "type": "leaf",
             "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bailey.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e12af167aeff5790",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Minor Characters.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0d94c97b69e9d09c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bucket Boy.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ab82a4af0cc03d93",
+            "type": "leaf",
+            "state": {
               "type": "empty",
               "state": {}
             }
@@ -44,7 +80,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "instagram comment",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,7 +97,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -81,6 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Bailey.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Bailey.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,27 +157,28 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Bailey.md"
+              }
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "41f59c99d82a3928",
   "lastOpenFiles": [
-    "Bucketboy.md",
+    "Bucket Boy.md",
+    "Bailey.md",
+    "Minor Characters.md",
     "Tale 7.md",
-    "Tale 6.md",
-    "Tale 50.md",
-    "Adventure Choice 2.md",
-    "Tale 49.md",
-    "Tale 48.md",
-    "Tale 47.md",
-    "Tale 46.md",
-    "Adventure Choice 1.md"
+    "Tale 8.md",
+    "Tale 5.md",
+    "Twistwood.md",
+    "Bathtub Baby Bear.md",
+    "Tale 12.md",
+    "Lute Girl.md"
   ]
 }

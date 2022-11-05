@@ -12,4 +12,4 @@ Location: ~~Panel 2, in the leaves at the top~~
 
 # External Links
 [Instagram](https://www.instagram.com/p/B3dWeurgYPw/)
-[Twitter]()
+[Webtoons]()

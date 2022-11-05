@@ -10,4 +10,4 @@ This Tale is completely without dialogue, being told solely through illustration
 
 # External Links
 [Instagram](https://www.instagram.com/p/B3GMwFjjulH/)
-[Twitter]()
+[Webtoons]()

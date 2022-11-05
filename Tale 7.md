@@ -10,4 +10,4 @@ This Tale has a permanent impact on two characters: Bucket Boy's goggles remain 
 
 # External Links
 [Instagram](https://www.instagram.com/p/B2-PE3DDoE7/)
-[Twitter]()
+[Webtoons]()

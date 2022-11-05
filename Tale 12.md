@@ -1,7 +1,7 @@
 # Synopsis
-[[Lute Girl]] is playing music on her lute, which [[Rock Girl]] compliments her on. Lute Girl says she's playing to try to attract the attention of her crush, whose is sitting nearby in his house with the window open.
+[[Lute Lady]] is playing music on her lute, which [[Rock Girl]] compliments her on. Lute Lady says she's playing to try to attract the attention of her crush, whose is sitting nearby in his house with the window open.
 
-Sadly, he is already listening to The Beetles play, and Lute Girl feels she cannot compete with them.
+Sadly, he is already listening to The Beetles play, and Lute Lady feels she cannot compete with them.
 
 # Interpretation
 The punchline of this comic is a pun on [The Beatles](https://en.wikipedia.org/wiki/The_Beatles).
@@ -14,4 +14,4 @@ Location: ~~Panel 2, behind the house~~
 
 # External Links
 [Instagram](https://www.instagram.com/p/B3nVUGTAJxg/)
-[Twitter]()
+[Webtoons]()

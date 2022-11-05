@@ -12,4 +12,4 @@ They also wonder if the being next being who is dipped and gets transformed into
 
 # External Links
 [Instagram](https://www.instagram.com/p/B22QJ8HDF8T/)
-[Twitter]()
+[Webtoons]()

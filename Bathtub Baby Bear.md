@@ -12,4 +12,4 @@ Despite being tossed into a stream, Bathtub Baby Bear retains a cheerful express
 
 Given that they make their way downstream to the Enchanted Pond unharmed, it seems that Bathtub Baby can swim, or at least float.
 
-Despite being transformed into a "Murderbear", 
+Despite being transformed into a "Murderbear", Bathtub Baby Bear does not appear to have any murderous instincts instilled in them by the transformation.

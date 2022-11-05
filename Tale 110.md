@@ -7,4 +7,4 @@ Location: ~~~~
 
 # External Links
 [Instagram]()
-[Twitter]()
+[Webtoons]()

@@ -12,4 +12,4 @@ Location: ~~Panel 3, in the grass~~
 
 # External Links
 [Instagram](https://www.instagram.com/p/B3P9DT3jqal/)
-[Twitter]()
+[Webtoons]()

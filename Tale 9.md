@@ -9,4 +9,4 @@ Location: ~~Panel 4, on the right curtain~~
 
 # External Links
 [Instagram](https://www.instagram.com/p/B3MiugNDkla/)
-[Twitter]()
+[Webtoons]()

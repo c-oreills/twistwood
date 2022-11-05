@@ -5,3 +5,5 @@ Rock Girl's head is a large rock, with orange flowers growing from it. The same 
 
 # Characteristics
 Rock Girl cannot swim since her weight would make her sink^[[[Tale 10]]]. She doesn't like to hold others back, but can get lonely^[[[Tale 10]]].
+
+Rock Girl appreciates music and is forthcoming on sharing her praise^[[[Tale 12]]].

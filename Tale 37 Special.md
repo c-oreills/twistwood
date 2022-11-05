@@ -5,6 +5,9 @@
 Item: 
 Location: ~~~~
 
+# Characters
+* 
+
 # External Links
 [Instagram Part 1](https://www.instagram.com/p/B9e8OeCjWRW/)
 [Instagram Part 2](https://www.instagram.com/p/B9kq_Xfjpml/)

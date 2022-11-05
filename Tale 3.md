@@ -8,5 +8,8 @@ The tale subverts the idiom ["Don't throw the baby out with the bathwater"](http
 
 Some sources^[[What does "Throwing the Baby out with the Bath Water" Mean?](https://www.languagehumanities.org/what-does-throwing-the-baby-out-with-the-bath-water-mean.htm)] attribute the idiom to the fact that private bathing was rare and arduous in Medieval Europe. This meant bathwater was more likely to be shared, with adults bathing first and then children in descending order of age. This meant that babies were likely to be bathed in very murky water, increasing the imagined risk that they'd be discarded along with the water.
 
+# Characters
+* 
+
 # External Links
 [Instagram](https://www.instagram.com/p/B2i6RANgMZh/?igshid=YmMyMTA2M2Y=)

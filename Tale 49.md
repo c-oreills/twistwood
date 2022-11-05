@@ -5,6 +5,9 @@
 Item: Ice Skate
 Location: ~~~~
 
+# Characters
+* 
+
 # External Links
 [Instagram](https://www.instagram.com/p/CDuKfj3DIZG/)
 [Webtoons]()

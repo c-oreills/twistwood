@@ -5,6 +5,9 @@
 Item: 
 Location: ~~~~
 
+# Characters
+* 
+
 # External Links
 [Instagram]()
 [Webtoons]()

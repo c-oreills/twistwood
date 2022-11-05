@@ -20,6 +20,9 @@ This Tale is reposted at Hallowe'en to celebrate the holiday.
 Item: Sock
 Location: ~~Panel 4, at the bottom of the cage~~
 
+# Characters
+* 
+
 # External Links
 [Instagram](https://www.instagram.com/p/B35Rm7vAszu/)
 [Webtoons]()

@@ -8,6 +8,9 @@ This Tale has been cited as an example of something that would mark a pumpkin as
 Item: 
 Location: ~~~~
 
+# Characters
+* 
+
 # External Links
 [Instagram]()
 [Webtoons]()

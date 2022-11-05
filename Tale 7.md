@@ -8,6 +8,9 @@ Grim switches to insulting Bailey and Bailey promptly tosses Grim from the bridg
 # Interpretation
 This Tale has a permanent impact on two characters: Bucket Boy's goggles remain cracked^[[[Tale 10]]] and Grim needs surgery ^[citation needed].
 
+# Characters
+* 
+
 # External Links
 [Instagram](https://www.instagram.com/p/B2-PE3DDoE7/)
 [Webtoons]()

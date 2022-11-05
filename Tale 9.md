@@ -7,6 +7,9 @@ The bird retrieves his hat and briefcase from behind a chipped sword and flies h
 Item: Acorn
 Location: ~~Panel 4, on the right curtain~~
 
+# Characters
+* 
+
 # External Links
 [Instagram](https://www.instagram.com/p/B3MiugNDkla/)
 [Webtoons]()

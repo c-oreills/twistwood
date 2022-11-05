@@ -10,6 +10,9 @@ According to the author's Instagram comments, the woodpecker's style is an homag
 Item: Pumpkin
 Location: ~~Panel 2, in the leaves at the top~~
 
+# Characters
+* 
+
 # External Links
 [Instagram](https://www.instagram.com/p/B3dWeurgYPw/)
 [Webtoons]()

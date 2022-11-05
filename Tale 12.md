@@ -12,6 +12,9 @@ The author has confirmed in Instagram comments that the hidden bear is the [[Bat
 Item: Bear
 Location: ~~Panel 2, behind the house~~
 
+# Characters
+* 
+
 # External Links
 [Instagram](https://www.instagram.com/p/B3nVUGTAJxg/)
 [Webtoons]()

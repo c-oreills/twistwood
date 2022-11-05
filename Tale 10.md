@@ -10,6 +10,9 @@ It's been commented by the author that by using his head to make a sandcastle, B
 Item: Bee
 Location: ~~Panel 3, in the grass~~
 
+# Characters
+* 
+
 # External Links
 [Instagram](https://www.instagram.com/p/B3P9DT3jqal/)
 [Webtoons]()

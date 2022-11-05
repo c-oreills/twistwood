@@ -1,6 +1,3 @@
-# Title
-When is Your Bedtime?
-
 # Synopsis
 [[Knight Owl]] and [[Padlock]] are discussing their bedtimes, Knight Owl remarking that ironically he has a normal bedtime despite his name.
 

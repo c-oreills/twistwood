@@ -1,6 +1,9 @@
 # Synopsis
 
 
+# Caption
+> Can&rsquo;t have nightmares if you cant sleep in the first place. Tactics.
+
 # Hidden Item
 Item: Apple
 Location: ~~~~

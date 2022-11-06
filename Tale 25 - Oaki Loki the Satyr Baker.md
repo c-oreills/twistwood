@@ -1,6 +1,9 @@
 # Synopsis
 
 
+# Caption
+> Oaki Loki the Satyr Baker Helps Button the Witch
+
 # Hidden Item
 Item: Bow
 Location: ~~~~

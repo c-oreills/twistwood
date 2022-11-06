@@ -3,7 +3,7 @@ import re
 import requests
 
 BASE_URL = 'https://m.webtoons.com/en/challenge/twistwood-tales/list?title_no=344740'
-BASE_URL = 'https://m.webtoons.com/en/challenge/twistwood-tales/1-when-is-your-bedtime/viewer?title_no=344740&episode_no=1'
+BASE_URL = 'https://www.webtoons.com/en/challenge/twistwood-tales/1-when-is-your-bedtime/viewer?title_no=344740&episode_no=1'
 
 url = BASE_URL
 
@@ -24,9 +24,9 @@ while url is not None:
     if match:
         _, title = title.split('-', 1)
         title = title.strip()
-        main_strips.append((match[0], title, info))
+        main_strips.append((match[0], title, url, info))
     else:
-        extra_strips.append((title, info))
+        extra_strips.append((title, url, info))
     
     next_ep = soup.find(class_='_nextEpisode')
     if not next_ep:

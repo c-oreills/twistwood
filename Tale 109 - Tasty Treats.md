@@ -1,0 +1,18 @@
+# Synopsis
+
+
+# Caption
+> Tasty Treats!
+> Tater Sam visits Oaki Loki the Satyr Baker. I wonder if Oaki will ever make enough to afford his own proper Bakery.
+> Oh did you know know that Satyr kinda rhymes with Baker? A happy accident on my part.
+
+# Hidden Item
+Item: 
+Location: ~~~~
+
+# Characters
+* 
+
+# External Links
+[Instagram]()
+[Webtoons](https://www.webtoons.com/en/challenge/twistwood-tales/109-tasty-treats/viewer?title_no=344740&episode_no=119)

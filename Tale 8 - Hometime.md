@@ -8,6 +8,9 @@ Her family open the door for her to a dining room with a roaring fireplace. The 
 # Interpretation
 This Tale is completely without dialogue, being told solely through illustration and atmosphere.
 
+# Caption
+> Mousa arrives home.
+
 # Characters
 * [[Minor Characters#Mousa|Mousa]]
 

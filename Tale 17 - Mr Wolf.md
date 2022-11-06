@@ -1,6 +1,9 @@
 # Synopsis
 
 
+# Caption
+> She was cool.
+
 # Hidden Item
 Item: Carrot
 Location: ~~Panel 1, bottom left shelf on a book~~

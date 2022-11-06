@@ -2,7 +2,7 @@
 
 
 # Caption
-The Farmer cheers up Strawberry Soo
+> The Farmer cheers up Strawberry Soo
 
 # Hidden Item
 Item: Diamond

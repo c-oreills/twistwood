@@ -8,6 +8,9 @@ Grim switches to insulting Bailey and Bailey promptly tosses Grim from the bridg
 # Interpretation
 This Tale has a permanent impact on two characters: Bucket Boy's goggles remain cracked^[[[Tale 10 - Rock Girl]]] and Grim needs surgery ^[citation needed].
 
+# Caption
+> Bucket Boy and Bailey meet a bully.
+
 # Characters
 * [[Bucket Boy]]
 * [[Grim]]

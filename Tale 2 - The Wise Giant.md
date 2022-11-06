@@ -6,6 +6,9 @@ Wandering the woods, [[Loghead]] and [[Padlock]] encounter the [[Wise Giant]] si
 # Interpretation
 Commenters point out that, given the Wise Giant's inaction in seeking urgent medical attention, he's probably not so wise after all.
 
+# Caption
+> A timeless parable.
+
 # Characters
 * [[Loghead]]
 * [[Padlock]]

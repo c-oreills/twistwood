@@ -2,7 +2,7 @@
 
 
 # Caption
-Chin up Loghead!
+> Chin up Loghead!
 
 # Hidden Item
 Item: Swirl

@@ -6,6 +6,9 @@ The [[Minor Characters#Train Crew and Passengers|guard dog]] announces to the [[
 # Interpretation
 The immediate aftermath of this is unknown, but given that Train and the passengers are seen later^[citation needed] it seems that either the flip was successful or Train decided against it at the last moment.
 
+# Caption
+> Tickets Please!
+
 # Characters
 * [[Train]]
 * [[Minor Characters#Train Crew and Passengers|Train Crew and Passengers]]

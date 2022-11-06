@@ -1,6 +1,9 @@
 # Synopsis
 [[Dr Crowley]] is finishing stitching up the [[Wise Giant]]^[] when [[Wendy]] and [[Mendy]] call him.
 
+# Caption
+> Any guesses for who is being stitched up? :D
+
 # Hidden Item
 Item: Fork
 Location: ~~~~

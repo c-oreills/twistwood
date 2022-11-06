@@ -1,6 +1,9 @@
 # Synopsis
 
 
+# Caption
+> Oda the Viking teaches Oaki Loki an important lesson.
+
 # Hidden Item
 Item: Cog
 Location: ~~Panel 4, behind the target~~

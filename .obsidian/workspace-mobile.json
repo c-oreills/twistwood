@@ -11,8 +11,12 @@
             "id": "20685ee0746a8ae7",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Tale 50 - Argus the Imagician..md",
+                "mode": "preview",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "Tale 50 - Argus the Imagician..md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "Tale 50 - Argus the Imagician..md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -107,7 +113,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "Tale 50 - Argus the Imagician..md"
+          }
         }
       }
     ],
@@ -115,15 +123,15 @@
   },
   "active": "20685ee0746a8ae7",
   "lastOpenFiles": [
-    "Tale 13.md",
-    "Tale 14.md",
-    "Pumpkinhead.md",
-    "Padlock.md",
-    "Tale 87.md",
-    "Bathtub Baby Bear.md",
-    "Rock Girl.md",
-    "Tale 12.md",
-    "[Tale 12.md",
-    "Lute Girl.md"
+    "Argus.md",
+    "Tale 50 - Argus the Imagician..md",
+    "Tale 49 - You Can Rely On Me.md",
+    "Tale 48 - Candibal.md",
+    "Candibal.md",
+    "Tale 47 - Curtains.md",
+    "UN Pirate Joker.md",
+    "Tale 45 - Mrs Bunion.md",
+    "Tofi.md",
+    "Tale 46 - Elpie and Tofi.md"
   ]
 }

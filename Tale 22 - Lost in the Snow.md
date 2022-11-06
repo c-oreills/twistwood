@@ -1,6 +1,9 @@
 # Synopsis
 
 
+# Caption
+> When Bucket Boy got caught in a blizzard ( and lost his goggles)
+
 # Hidden Item
 Item: Flower
 Location: ~~~~

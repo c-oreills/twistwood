@@ -2,7 +2,7 @@
 
 
 # Caption
-Better luck next time, Tater Sam!
+> Better luck next time, Tater Sam!
 
 # Hidden Item
 Item: Sword

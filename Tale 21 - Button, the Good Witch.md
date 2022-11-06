@@ -1,6 +1,9 @@
 # Synopsis
 
 
+# Caption
+> Poor Rudolf!
+
 # Hidden Item
 Item: Mushroom
 Location: ~~~~

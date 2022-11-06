@@ -1,6 +1,9 @@
 # Synopsis
 
 
+# Caption
+> If a bucket&#39;s purpose is to hold water, being able to do so would make a bucket very happy.
+
 # Characters
 * [[Padlock]]
 * [[Bucket Boy]]

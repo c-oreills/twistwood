@@ -8,6 +8,9 @@ The punchline of this comic is a pun on [The Beatles](https://en.wikipedia.org/w
 
 The author has confirmed in Instagram comments that the hidden bear is the [[Bathtub Baby Bear]] transformed by the Enchanted Pond^[Instagram comment by @meliponin_a "The bear it's the baby?"; response by @bytwistwood: "bingo"], and also appears later with Sleepy the Squirrel^[Instagram comment by @kiddwukong: "I bet that's the same [bear] that goes on to find the squirrel"; response by @bytwistwood: "it is ^_^"].
 
+# Caption
+> How could anyone compete?
+
 # Hidden Item
 Item: Bear
 Location: ~~Panel 2, behind the house~~
@@ -15,7 +18,7 @@ Location: ~~Panel 2, behind the house~~
 # Characters
 * [[Rock Girl]]
 * [[UN Lute Lady]]
-* [[UN Lute Lady Crush]]
+* [[Tofi]]
 
 # External Links
 [Instagram](https://www.instagram.com/p/B3nVUGTAJxg/)

@@ -6,6 +6,9 @@ Padlock laughs and corrects him that it's "migration" season. A woodpecker lands
 # Interpretation
 According to the author's Instagram comments, the woodpecker's style is an homage to [Drinky Crow](https://en.wikipedia.org/wiki/The_Drinky_Crow_Show)
 
+# Caption
+> The birds are flying south!
+
 # Hidden Item
 Item: Pumpkin
 Location: ~~Panel 2, in the leaves at the top~~

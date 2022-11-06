@@ -16,6 +16,9 @@ An example of something that may mark a pumpkin bad is *TODO:fixme* as demonstat
 
 This Tale is reposted at Hallowe'en to celebrate the holiday.
 
+# Caption
+> What scented candle would you hope for?
+
 # Hidden Item
 Item: Sock
 Location: ~~Panel 4, at the bottom of the cage~~

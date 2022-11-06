@@ -1,6 +1,9 @@
 # Synopsis
 
 
+# Caption
+> I wonder what Strawberry Soo knows of the long arm of the law?
+
 # Hidden Item
 Item: Berries
 Location: ~~~~

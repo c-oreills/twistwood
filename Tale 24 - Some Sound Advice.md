@@ -1,6 +1,9 @@
 # Synopsis
 
 
+# Caption
+> Rock Girl gives Sofie some sound advice!
+
 # Hidden Item
 Item: Boat
 Location: ~~~~
@@ -8,7 +11,7 @@ Location: ~~~~
 # Characters
 * [[UN Lute Lady]]
 * [[Rock Girl]]
-* [[UN Lute Lady Crush]]
+* [[Tofi]]
 
 # External Links
 [Instagram](https://www.instagram.com/p/B6Ug3qPjg6c/)

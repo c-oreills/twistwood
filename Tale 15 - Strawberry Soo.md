@@ -1,6 +1,9 @@
 # Synopsis
 
 
+# Caption
+> Strawberry Soo the Scarecrow Girl has a good day.
+
 # Hidden Item
 Item: Jigsaw
 Location: ~~~~

@@ -16,5 +16,15 @@
       ],
       "key": "C"
     }
+  ],
+  "obsidian-hotkeys-for-templates:Description.md": [],
+  "obsidian-hotkeys-for-templates:Caption.md": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "A"
+    }
   ]
 }

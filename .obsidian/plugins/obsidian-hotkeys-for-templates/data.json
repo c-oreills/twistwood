@@ -1,7 +1,8 @@
 {
   "files": [
     "Tale.md",
-    "Character.md"
+    "Character.md",
+    "Caption.md"
   ],
   "templaterFiles": [],
   "newFileTemplates": [],

@@ -11,12 +11,8 @@
             "id": "20685ee0746a8ae7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tale 14.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Tale 14.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Tale 14.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -113,9 +107,7 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {
-            "file": "Tale 14.md"
-          }
+          "state": {}
         }
       }
     ],

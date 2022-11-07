@@ -9,10 +9,9 @@ Item: Bell
 Location: ~~~~
 
 # Characters
-* [[Henry and Liza]]
+* [[Henry]]
 * [[Dr Crowley]]
-* [[Mendy]] ?
-* [[Wendy]] ?
+* [[Mendy]]
 
 # External Links
 [Instagram](https://www.instagram.com/p/B9K9FiZjB3u/)

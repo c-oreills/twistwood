@@ -11,7 +11,7 @@ Location: ~~~~
 # Characters
 * [[Padlock]]
 * [[Tater Sam]]
-* [[UN Reading Hat Rat]]
+* [[Bookly Mouse]]
 * [[Dauphinie]]
 
 # External Links

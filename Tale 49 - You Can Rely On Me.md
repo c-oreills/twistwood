@@ -9,7 +9,7 @@ Item: Ice Skate
 Location: ~~~~
 
 # Characters
-* [[UN Propellor Hat Girl]]
+* [[Sprout]]
 * [[Dead Lion]]
 * [[Procrastiknight]]
 

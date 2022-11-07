@@ -10,7 +10,7 @@ Location: ~~~~
 
 # Characters
 * [[Professor Crisp]]
-* [[Tuesday]]
+* [[Eve]]
 
 # External Links
 [Instagram](https://www.instagram.com/p/CA_ax5OjTHy/)

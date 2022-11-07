@@ -9,7 +9,7 @@ Item: Bowtie
 Location: ~~~~
 
 # Characters
-* [[Tuesday]]
+* [[Eve]]
 * [[UN Police Dog]]
 * [[UN Lovers]]
 

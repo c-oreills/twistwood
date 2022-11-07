@@ -1,4 +1,4 @@
-Bathtub Baby Bear (canonical name unknown) is a small baby, presumably [[Henry and Liza]]'s, who gets transformed into a bear.
+Bathtub Baby Bear (canonical name unknown) is a small baby, presumably [[Henry]]'s, who gets transformed into a bear.
 
 Bathtub Baby Bear gets thrown into a stream^[[[Tale 3 - A Near Disaster!]]] and transforms into a bear^[[[Tale 6 - The Enchanted Pond]]]. He is seen in the background of a later tale^[[[Tale 12 - Crush]] Instagram comment by @meliponin_a "The bear it's the baby?"; response by @bytwistwood: "bingo"], and also appears later with Sleepy the Squirrel^[[[Tale 12 - Crush]] Instagram comment by @kiddwukong: "I bet that's the same [bear] that goes on to find the squirrel"; response by @bytwistwood: "it is ^_^"].
 

@@ -5,12 +5,13 @@
 > Pinocchio goes fis - uh - I mean, Pinocchio goes... reading...
 
 # Hidden Item
-Item: 
+Item: Ladybird
 Location: ~~~~
 
 # Characters
-* 
+* [[Gill]]
+* [[Pinocchio]]
 
 # External Links
-[Instagram]()
+[Instagram](https://www.instagram.com/p/CEaBEy4DsOs/)
 [Webtoons](https://www.webtoons.com/en/challenge/twistwood-tales/52-pinocchio/viewer?title_no=344740&episode_no=57)

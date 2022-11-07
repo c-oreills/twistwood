@@ -10,7 +10,7 @@ Location: ~~Panel 1, bottom left shelf on a book~~
 
 # Characters
 * [[Mr Wolf]]
-* [[UN Reading Hat Rat]]
+* [[Bookly Mouse]]
 * [[Little Red]]
 
 # External Links

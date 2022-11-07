@@ -6,12 +6,16 @@
 > Long term readers might recognise a few of the characters in this one!)
 
 # Hidden Item
-Item: 
-Location: ~~~~
+Item: Three of Spades
+Location: ~~Panel 2, in Padlock's hand~~
 
 # Characters
-* 
+* [[UN Troll Soldiers]] Gilma
+* [[Batta]]
+* [[UN Pig Self Centred]]
+* [[Padlock]]
+* [[Bailey]]
 
 # External Links
-[Instagram]()
+[Instagram](https://www.instagram.com/p/CiqSQd9M0tS/?igshid=YmMyMTA2M2Y=)
 [Webtoons](https://www.webtoons.com/en/challenge/twistwood-tales/117-mind-reading-/viewer?title_no=344740&episode_no=127)

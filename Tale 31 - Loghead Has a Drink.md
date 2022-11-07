@@ -9,7 +9,7 @@ Item: Swirl
 Location: ~~~~
 
 # Characters
-* [[UN Fox Bartender]]
+* [[Bar Fox]]
 * [[Loghead]]
 
 # External Links

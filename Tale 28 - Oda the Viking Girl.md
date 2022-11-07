@@ -13,7 +13,7 @@ Location: ~~Panel 4, behind the target~~
 * [[Oaki Loki]]
 * [[Grim]]
 * [[Dr Crowley]]
-* [[Henry and Liza|Henry]]
+* [[Henry]]
 * [[Wendy]]
 * [[Mendy]]
 

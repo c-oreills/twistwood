@@ -9,9 +9,9 @@ Item: Spider
 Location: ~~~~
 
 # Characters
-* [[UN Sick Man]]
+* [[Hank]]
 * [[Dr Crowley]]
-* [[UN Propellor Hat Girl]]
+* [[Sprout]]
 
 # External Links
 [Instagram](https://www.instagram.com/p/CAOEer7jGbP/)

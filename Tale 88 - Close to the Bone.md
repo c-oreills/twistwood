@@ -7,12 +7,13 @@
 > Hello everyone! It's been a while! Happy New Year :D Thank you for still following my comic. I hope you enjoy the next round of Twistwood Tales I have in store for you :)
 
 # Hidden Item
-Item: 
-Location: ~~~~
+Item: Mr Goose
+Location: ~~Panel 2, tombstone on the left~~
 
 # Characters
-* 
+* [[Redboots]]
+* [[Henry]]
 
 # External Links
-[Instagram]()
+[Instagram](https://www.instagram.com/p/CSAkx-Djaxp/?igshid=YmMyMTA2M2Y=)
 [Webtoons](https://www.webtoons.com/en/challenge/twistwood-tales/88-close-to-the-bone/viewer?title_no=344740&episode_no=94)

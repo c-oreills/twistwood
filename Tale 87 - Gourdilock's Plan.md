@@ -8,12 +8,15 @@ This Tale has been cited as an example of something that would mark a pumpkin as
 > Gourdilocks has a plan!
 
 # Hidden Item
-Item: 
-Location: ~~~~
+Item: Alarm clock
+Location: ~~Panel 1, next to Elunar~~
 
 # Characters
-* 
+* [[Gourdilocks]]
+* [[Pumpkin Kid]]
+* [[Elunar]]
+* [[Minor Characters#Fairy Gourd Mother]]
 
 # External Links
-[Instagram]()
+[Instagram](https://www.instagram.com/p/CR7glLtqhat/?igshid=YmMyMTA2M2Y=)
 [Webtoons](https://www.webtoons.com/en/challenge/twistwood-tales/87-gourdilocks-plan/viewer?title_no=344740&episode_no=93)

@@ -7,12 +7,13 @@
 > Oh did you know know that Satyr kinda rhymes with Baker? A happy accident on my part.
 
 # Hidden Item
-Item: 
-Location: ~~~~
+Item: Red button
+Location: ~~Panel 3, on Tater Sam's shirt~~
 
 # Characters
-* 
+* [[Tater Sam]]
+* [[Oaki Loki]]
 
 # External Links
-[Instagram]()
+[Instagram](https://www.instagram.com/p/CctRnR3M3fI/?igshid=YmMyMTA2M2Y=)
 [Webtoons](https://www.webtoons.com/en/challenge/twistwood-tales/109-tasty-treats/viewer?title_no=344740&episode_no=119)

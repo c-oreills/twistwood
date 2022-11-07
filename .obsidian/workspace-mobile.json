@@ -8,14 +8,55 @@
         "type": "tabs",
         "children": [
           {
-            "id": "20685ee0746a8ae7",
+            "id": "153ce19fbba975a4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tale 50 - Argus the Imagician..md",
-                "mode": "preview",
+                "file": "Liza.md",
+                "mode": "source",
                 "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "721ea476f60821ba",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "16f8592a9295b760",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Liza.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": false
+                }
               }
             }
           }
@@ -85,7 +126,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Tale 50 - Argus the Imagician..md",
+            "file": "Liza.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +143,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Tale 50 - Argus the Imagician..md",
+            "file": "Liza.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,24 +155,24 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Tale 50 - Argus the Imagician..md"
+            "file": "Liza.md"
           }
         }
       }
     ],
     "currentTab": 0
   },
-  "active": "20685ee0746a8ae7",
+  "active": "153ce19fbba975a4",
   "lastOpenFiles": [
-    "Argus.md",
-    "Tale 50 - Argus the Imagician..md",
-    "Tale 49 - You Can Rely On Me.md",
-    "Tale 48 - Candibal.md",
-    "Candibal.md",
-    "Tale 47 - Curtains.md",
-    "UN Pirate Joker.md",
-    "Tale 45 - Mrs Bunion.md",
-    "Tofi.md",
-    "Tale 46 - Elpie and Tofi.md"
+    "Henry.md",
+    "Liza.md",
+    "Tale 92 - Ticket.md",
+    "Tale 28 - Oda the Viking Girl.md",
+    "Tale 18 - Henry.md",
+    "Tale 3 - A Near Disaster!.md",
+    "TODOs.md",
+    "UN Lute Lady.md",
+    "Tale 4 - Bucket Boy.md",
+    "Tale 120 - Wrist Trouble.md"
   ]
 }

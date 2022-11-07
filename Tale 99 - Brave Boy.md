@@ -8,12 +8,13 @@
 > (For those of you who caught this one here early a few days ago you are awarded 3 points. :D )
 
 # Hidden Item
-Item: 
-Location: ~~~~
+Item: Kite
+Location: ~~Panel 4, stuck in the tree~~
 
 # Characters
-* 
+* [[UN Candy Eating Boy]]
+* [[Dr Crowley]]
 
 # External Links
-[Instagram]()
+[Instagram](https://www.instagram.com/p/CU3MdNYKStY/?igshid=YmMyMTA2M2Y=)
 [Webtoons](https://www.webtoons.com/en/challenge/twistwood-tales/99-brave-boy-/viewer?title_no=344740&episode_no=109)

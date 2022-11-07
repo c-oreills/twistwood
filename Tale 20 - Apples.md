@@ -9,7 +9,7 @@ Item: Clover
 Location: ~~~~
 
 # Characters
-* [[UN Propellor Hat Girl]]
+* [[Sprout]]
 * [[Dr Crowley]]
 * [[Knight Owl]]
 * [[Padlock]]

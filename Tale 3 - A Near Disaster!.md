@@ -1,5 +1,5 @@
 # Synopsis
-[[Henry and Liza]] are at home. Henry is about to throw bathwater out of the window with a [[Bathtub Baby Bear|Baby]] in it, but Liza stops him, warning that he's about to throw the baby out with the bathwater.
+[[Henry]] and [[Liza]] are at home. Henry is about to throw bathwater out of the window with a [[Bathtub Baby Bear|Baby]] in it, but Liza stops him, warning that he's about to throw the baby out with the bathwater.
 
 Henry is relieved at the averted disaster, but instead throws only the Baby out of the window and into a stream. He then takes a bath in the retained water.
 
@@ -12,7 +12,8 @@ Some sources^[[What does "Throwing the Baby out with the Bath Water" Mean?](http
 > The was a close one.
 
 # Characters
-* [[Henry and Liza]]
+* [[Henry]]
+* [[Liza]]
 * [[Bathtub Baby Bear]]
 
 # External Links

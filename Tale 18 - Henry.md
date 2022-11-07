@@ -9,7 +9,7 @@ Item: Key
 Location: ~~Panel 2, on the box on the drawers~~
 
 # Characters
-* [[Henry and Liza|Henry]]
+* [[Henry]]
 * [[Jack Frost]]
 
 # External Links

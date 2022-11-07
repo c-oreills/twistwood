@@ -12,6 +12,7 @@ Location: ~~~~
 # Characters
 * [[Grumm]]
 * [[Elpie]]
+* [[UN Troll Kids]]
 
 # External Links
 [Instagram](https://www.instagram.com/p/CBeckJJD7zv/)

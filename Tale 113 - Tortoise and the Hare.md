@@ -12,8 +12,10 @@ Item:
 Location: ~~~~
 
 # Characters
-* 
+* [[Hare]]
+* [[Tortoise]]
+* [[UN Hedgehog Lady]]
 
 # External Links
-[Instagram]()
+[Instagram](https://www.instagram.com/p/Cg2ZsPSsDXD/?igshid=YmMyMTA2M2Y=)
 [Webtoons](https://www.webtoons.com/en/challenge/twistwood-tales/113-tortoise-and-the-hare/viewer?title_no=344740&episode_no=123)

@@ -7,12 +7,13 @@
 > I think it's good, when it's dark, to be reminded there are stairs out of the pit
 
 # Hidden Item
-Item: 
-Location: ~~~~
+Item: The door
+Location: ~~Panel 2, under Elunar's stepping stone~~
 
 # Characters
-* 
+* [[Elunar]]
+* [[Rose]]
 
 # External Links
-[Instagram]()
+[Instagram](https://www.instagram.com/p/CiYAvAsswRy/?igshid=YmMyMTA2M2Y=)
 [Webtoons](https://www.webtoons.com/en/challenge/twistwood-tales/116-elunar-rose-and-the-pit/viewer?title_no=344740&episode_no=126)

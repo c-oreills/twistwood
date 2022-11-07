@@ -5,11 +5,12 @@
 > The Wretch returns, as does his questionable culinary skills. I was trying to come up with the worst kind of soup I'd imagine he would eat - syrup soup seems about right for him.
 
 # Hidden Item
-Item: 
-Location: ~~~~
+Item: Wooden spoon
+Location: ~~Panel 3, in the Wretch's hand~~
 
 # Characters
-* 
+* [[Lisa]]
+* [[The Wretch]]
 
 # External Links
 [Instagram]()

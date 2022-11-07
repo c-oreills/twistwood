@@ -5,12 +5,15 @@
 > Tater Sam receives a gift!
 
 # Hidden Item
-Item: 
+Item: Daisy
 Location: ~~~~
 
 # Characters
-* 
+* [[Padlock]]
+* [[Tater Sam]]
+* [[Bar Fox]]
+* [[Dauphinie]]
 
 # External Links
-[Instagram]()
+[Instagram](https://www.instagram.com/p/CJeoS77jZE8/?igshid=YmMyMTA2M2Y=)
 [Webtoons](https://www.webtoons.com/en/challenge/twistwood-tales/65-tater-sams-resolve/viewer?title_no=344740&episode_no=70)

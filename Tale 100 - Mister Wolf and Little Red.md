@@ -5,7 +5,7 @@
 > # 100  “Mister Wolf and Little Red” Thank you for reading the series so far. Reading your comments and words of support always brings a smile to my face. Here’s to the next 100! I’d like to ask you - What has been your favourite Tale so far?
 
 # Hidden Item
-Item: Eye of Chester
+Item: Eye of [[Chester]]
 Location: ~~Panel 2, on the tree~~
 
 # Characters

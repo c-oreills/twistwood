@@ -5,8 +5,8 @@
 > Grim meets Argus the Imagician.
 
 # Hidden Item
-Item: Chester
-Location: ~~~~
+Item: [[Chester]]
+Location: ~~Panel 1, on Argus's canvas~~
 
 # Characters
 * [[Grim]]

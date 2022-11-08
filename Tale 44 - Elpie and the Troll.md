@@ -12,6 +12,7 @@ Location: ~~~~
 # Characters
 * [[Grumm]]
 * [[Elpie]]
+* [[Sonny Boy]]
 * [[UN Troll Kids]]
 
 # External Links

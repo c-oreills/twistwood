@@ -9,7 +9,7 @@ Item: Boat
 Location: ~~~~
 
 # Characters
-* [[UN Lute Lady]]
+* [[Rose]]
 * [[Rock Girl]]
 * [[Tofi]]
 

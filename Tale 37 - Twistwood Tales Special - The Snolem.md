@@ -11,7 +11,7 @@ Location: ~~~~
 # Characters
 * [[Flopie]]
 * [[Rock Girl]]
-* [[TwigsSnowbell]]
+* [[Snowbell]]
 * [[Jill]]
 * [[Bucket Boy]]
 * [[Steven]]

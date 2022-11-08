@@ -1,5 +1,5 @@
 *Forematter*
-Sonny boy propellor hat [[Tale 107 - Comedy Night]]
+[[Sonny Boy]] propellor hat [[Tale 107 - Comedy Night]]
 
 # Physical Appearance
 

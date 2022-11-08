@@ -11,6 +11,7 @@ Location: ~~~~
 # Characters
 * [[Detective Pines]]
 * [[UN Pet Supplies Owner Lady]]
+* [[Strawberry Soo]]
 
 # External Links
 [Instagram](https://www.instagram.com/p/CHJq1waDLlH/)

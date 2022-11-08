@@ -1,4 +1,4 @@
-from collections import OrderedDict
+from collections import defaultdict
 from glob import glob
 import os
 from os import path
@@ -79,5 +79,22 @@ def rename_with_titles():
         title = title.replace('?', ' QM')
         new_filename = path.join(path.dirname(tale_filename), f'Tale {tale_number} - {title}.md')
         os.rename(tale_filename, new_filename)
-        
-update_sections_from_webtoons()
+
+def count_character_stats():
+    char_tales = defaultdict(set)
+    char_re = re.compile(r'\* \[\[(.+)\]\]')
+    
+    for tale_number in range(1, 121):
+        tale_filename = find_tale_filename(tale_number)
+        with open(tale_filename, 'r') as f:
+            tale_lines = list(f.readlines())
+        sections = parse_sections(tale_lines)
+        for l in sections['Characters']:
+            m = char_re.match(l)
+            if m:
+                char_tales[m[1]].add(tale_number)
+    
+    counts = {char: len(s) for char, s in char_tales.items()}
+    print(sorted(counts.items(), reverse=True, key=lambda i: i[1]))
+    
+count_character_stats()

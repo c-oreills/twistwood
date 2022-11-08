@@ -1,5 +1,5 @@
 # Synopsis
-[[UN Lute Lady]] is playing music on her lute, which [[Rock Girl]] compliments her on. Lute Lady says she's playing to try to attract the attention of her crush, whose is sitting nearby in his house with the window open.
+[[Rose]] is playing music on her lute, which [[Rock Girl]] compliments her on. Lute Lady says she's playing to try to attract the attention of her crush, whose is sitting nearby in his house with the window open.
 
 Sadly, he is already listening to The Beetles play, and Lute Lady feels she cannot compete with them.
 
@@ -17,7 +17,7 @@ Location: ~~Panel 2, behind the house~~
 
 # Characters
 * [[Rock Girl]]
-* [[UN Lute Lady]]
+* [[Rose]]
 * [[Tofi]]
 
 # External Links

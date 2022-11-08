@@ -12,7 +12,7 @@ Location: ~~~~
 * [[UN Pig Bully Boy]]
 * [[UN Hedgehog Bully Girl]]
 * [[Flopie]]
-* [[TwigsSnowbell]]
+* [[Snowbell]]
 
 # External Links
 [Instagram](https://www.instagram.com/p/CJKH0TyDkVL/?igshid=YmMyMTA2M2Y=)

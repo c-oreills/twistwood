@@ -10,7 +10,7 @@ Location: ~~Panel 4, behind the bench~~
 
 # Characters
 * [[Pumpkin Kid]]
-* [[UN Troll Kids]]
+* [[Sonny Boy]]
 * [[Eve]]
 * [[Redboots]]
 

@@ -20,14 +20,6 @@
             }
           },
           {
-            "id": "508ea7e68414d4af",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
             "id": "8cf35965721daf66",
             "type": "leaf",
             "state": {
@@ -107,6 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "TODOs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,6 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "TODOs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +138,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "TODOs.md"
+              }
             }
           }
         ]
@@ -154,8 +150,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "12451dd653c5cb58",
+  "active": "8cf35965721daf66",
   "lastOpenFiles": [
+    "Templates/Tale.md",
     "Tale 44 - Elpie and the Troll.md",
     "UN Troll Kids.md",
     "Tale 61 - Counting the Sheep.md",
@@ -164,7 +161,6 @@
     "Tale 59 - Loghead and Blueberry.md",
     "Blueberry.md",
     "Tale 58 - Detective Pines.md",
-    "UN Pet Supplies Owner Lady.md",
-    "Detective Pines.md"
+    "UN Pet Supplies Owner Lady.md"
   ]
 }

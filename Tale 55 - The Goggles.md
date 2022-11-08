@@ -9,8 +9,10 @@ Item: Boomerang
 Location: ~~~~
 
 # Characters
+* [[Sonny Boy]]
 * [[UN Troll Kids]]
 * [[Grim]]
+* [[Bucket Boy]] (mentioned)
 * [[Goblin Queen]]
 
 # External Links

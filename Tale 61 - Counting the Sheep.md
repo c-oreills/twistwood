@@ -10,7 +10,7 @@ Location: ~~~~
 
 # Characters
 * [[Loghead]]
-* [[UN Troll Kids]]
+* [[Sonny Boy]]
 
 # External Links
 [Instagram](https://www.instagram.com/p/CHYuwvmDRg4/)

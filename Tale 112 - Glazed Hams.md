@@ -14,5 +14,5 @@
 * [[Daffodil]]
 
 # External Links
-[Instagram](https://www.instagram.com/p/Cfw18iTMqou/?igshid=YmMyMTA2M2Y=)
-[Webtoons](https://www.webtoons.com/en/challenge/twistwood-tales/112-glazed-hams/viewer?title_no=344740&episode_no=122)
+* [Instagram](https://www.instagram.com/p/Cfw18iTMqou/?igshid=YmMyMTA2M2Y=)
+* [Webtoons](https://www.webtoons.com/en/challenge/twistwood-tales/112-glazed-hams/viewer?title_no=344740&episode_no=122)

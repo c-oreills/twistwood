@@ -14,5 +14,5 @@
 * [[Henry]] (mentioned)
 
 # External Links
-[Instagram](https://www.instagram.com/p/CbYVsgNKuL3/?igshid=YmMyMTA2M2Y=)
-[Webtoons](https://www.webtoons.com/en/challenge/twistwood-tales/106-the-prison/viewer?title_no=344740&episode_no=116)
+* [Instagram](https://www.instagram.com/p/CbYVsgNKuL3/?igshid=YmMyMTA2M2Y=)
+* [Webtoons](https://www.webtoons.com/en/challenge/twistwood-tales/106-the-prison/viewer?title_no=344740&episode_no=116)

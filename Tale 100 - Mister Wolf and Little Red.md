@@ -14,5 +14,5 @@
 * [[Deep Witch]] (mentioned)
 
 # External Links
-[Instagram](https://www.instagram.com/p/CWytEi-qD6I/?igshid=YmMyMTA2M2Y=)
-[Webtoons](https://www.webtoons.com/en/challenge/twistwood-tales/100-mister-wolf-and-little-red/viewer?title_no=344740&episode_no=110)
+* [Instagram](https://www.instagram.com/p/CWytEi-qD6I/?igshid=YmMyMTA2M2Y=)
+* [Webtoons](https://www.webtoons.com/en/challenge/twistwood-tales/100-mister-wolf-and-little-red/viewer?title_no=344740&episode_no=110)

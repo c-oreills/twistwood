@@ -13,5 +13,5 @@
 * [[Padlock]]
 
 # External Links
-[Instagram](https://www.instagram.com/p/CAlbC4YjDRy/)
-[Webtoons](https://www.webtoons.com/en/challenge/twistwood-tales/39-lilla/viewer?title_no=344740&episode_no=43)
+* [Instagram](https://www.instagram.com/p/CAlbC4YjDRy/)
+* [Webtoons](https://www.webtoons.com/en/challenge/twistwood-tales/39-lilla/viewer?title_no=344740&episode_no=43)

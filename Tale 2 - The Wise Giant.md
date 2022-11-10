@@ -15,5 +15,5 @@ Commenters point out that, given the Wise Giant's inaction in seeking urgent med
 * [[The Wise Giant]]
 
 # External Links
-[Instagram](https://www.instagram.com/p/B2aRReajZes/?igshid=YmMyMTA2M2Y=)
-[Webtoons](https://www.webtoons.com/en/challenge/twistwood-tales/2-the-wise-giant/viewer?title_no=344740&episode_no=2)
+* [Instagram](https://www.instagram.com/p/B2aRReajZes/?igshid=YmMyMTA2M2Y=)
+* [Webtoons](https://www.webtoons.com/en/challenge/twistwood-tales/2-the-wise-giant/viewer?title_no=344740&episode_no=2)

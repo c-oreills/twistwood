@@ -13,5 +13,5 @@
 * [[Mr Wolf]]
 
 # External Links
-[Instagram](https://www.instagram.com/p/CNBCs47Dduk/?igshid=YmMyMTA2M2Y=)
-[Webtoons](https://www.webtoons.com/en/challenge/twistwood-tales/75-logheads-question-/viewer?title_no=344740&episode_no=81)
+* [Instagram](https://www.instagram.com/p/CNBCs47Dduk/?igshid=YmMyMTA2M2Y=)
+* [Webtoons](https://www.webtoons.com/en/challenge/twistwood-tales/75-logheads-question-/viewer?title_no=344740&episode_no=81)

@@ -9,5 +9,5 @@
 * 
 
 # External Links
-[Instagram]()
-[Webtoons]()
+* [Instagram]()
+* [Webtoons]()

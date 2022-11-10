@@ -19,5 +19,5 @@
 * [[UN Tophat Blue Rabbit Flopie's Dad]]
 
 # External Links
-[Instagram](https://www.instagram.com/p/B8ZvC4sg8YA/)
-[Webtoons](https://www.webtoons.com/en/challenge/twistwood-tales/29-welcome-to-twistwood-flopie/viewer?title_no=344740&episode_no=32)
+* [Instagram](https://www.instagram.com/p/B8ZvC4sg8YA/)
+* [Webtoons](https://www.webtoons.com/en/challenge/twistwood-tales/29-welcome-to-twistwood-flopie/viewer?title_no=344740&episode_no=32)

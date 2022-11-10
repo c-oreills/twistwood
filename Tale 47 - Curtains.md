@@ -15,5 +15,5 @@
 * [[UN Pirate Joker]]
 
 # External Links
-[Instagram](https://www.instagram.com/p/CDSLoRMjUmZ/)
-[Webtoons](https://www.webtoons.com/en/challenge/twistwood-tales/47-curtains/viewer?title_no=344740&episode_no=51)
+* [Instagram](https://www.instagram.com/p/CDSLoRMjUmZ/)
+* [Webtoons](https://www.webtoons.com/en/challenge/twistwood-tales/47-curtains/viewer?title_no=344740&episode_no=51)

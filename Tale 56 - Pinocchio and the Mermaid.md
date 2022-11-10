@@ -13,5 +13,5 @@
 * [[Pinocchio]]
 
 # External Links
-[Instagram](https://www.instagram.com/p/CFshILWDBfI/)
-[Webtoons](https://www.webtoons.com/en/challenge/twistwood-tales/56-pinocchio-and-the-mermaid-/viewer?title_no=344740&episode_no=61)
+* [Instagram](https://www.instagram.com/p/CFshILWDBfI/)
+* [Webtoons](https://www.webtoons.com/en/challenge/twistwood-tales/56-pinocchio-and-the-mermaid-/viewer?title_no=344740&episode_no=61)

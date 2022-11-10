@@ -13,5 +13,5 @@
 * [[The Wretch]]
 
 # External Links
-[Instagram]()
-[Webtoons](https://www.webtoons.com/en/challenge/twistwood-tales/118-syrup-soup/viewer?title_no=344740&episode_no=128)
+* [Instagram]()
+* [Webtoons](https://www.webtoons.com/en/challenge/twistwood-tales/118-syrup-soup/viewer?title_no=344740&episode_no=128)

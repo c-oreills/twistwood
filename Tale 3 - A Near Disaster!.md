@@ -17,5 +17,5 @@ Some sources^[[What does "Throwing the Baby out with the Bath Water" Mean?](http
 * [[Bathtub Baby Bear]]
 
 # External Links
-[Instagram](https://www.instagram.com/p/B2i6RANgMZh/?igshid=YmMyMTA2M2Y=)
-[Webtoons](https://www.webtoons.com/en/challenge/twistwood-tales/3-a-near-disaster/viewer?title_no=344740&episode_no=3)
+* [Instagram](https://www.instagram.com/p/B2i6RANgMZh/?igshid=YmMyMTA2M2Y=)
+* [Webtoons](https://www.webtoons.com/en/challenge/twistwood-tales/3-a-near-disaster/viewer?title_no=344740&episode_no=3)

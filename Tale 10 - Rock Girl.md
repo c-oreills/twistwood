@@ -18,5 +18,5 @@ It's been commented by the author that by using his head to make a sandcastle, B
 * [[Loghead]]
 
 # External Links
-[Instagram](https://www.instagram.com/p/B3P9DT3jqal/)
-[Webtoons](https://www.webtoons.com/en/challenge/twistwood-tales/10-rock-girl/viewer?title_no=344740&episode_no=10)
+* [Instagram](https://www.instagram.com/p/B3P9DT3jqal/)
+* [Webtoons](https://www.webtoons.com/en/challenge/twistwood-tales/10-rock-girl/viewer?title_no=344740&episode_no=10)

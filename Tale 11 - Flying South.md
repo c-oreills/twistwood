@@ -18,5 +18,5 @@ According to the author's Instagram comments, the woodpecker's style is an homag
 * [[Padlock]]
 
 # External Links
-[Instagram](https://www.instagram.com/p/B3dWeurgYPw/)
-[Webtoons](https://www.webtoons.com/en/challenge/twistwood-tales/11-flying-south/viewer?title_no=344740&episode_no=11)
+* [Instagram](https://www.instagram.com/p/B3dWeurgYPw/)
+* [Webtoons](https://www.webtoons.com/en/challenge/twistwood-tales/11-flying-south/viewer?title_no=344740&episode_no=11)

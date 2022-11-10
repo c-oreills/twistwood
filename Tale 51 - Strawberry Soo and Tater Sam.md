@@ -13,5 +13,5 @@
 * [[Tater Sam]]
 
 # External Links
-[Instagram](https://www.instagram.com/p/CEK7QQJDjkj/)
-[Webtoons](https://www.webtoons.com/en/challenge/twistwood-tales/51-strawberry-soo-and-tater-sam/viewer?title_no=344740&episode_no=56)
+* [Instagram](https://www.instagram.com/p/CEK7QQJDjkj/)
+* [Webtoons](https://www.webtoons.com/en/challenge/twistwood-tales/51-strawberry-soo-and-tater-sam/viewer?title_no=344740&episode_no=56)

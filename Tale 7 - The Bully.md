@@ -17,5 +17,5 @@ This Tale has a permanent impact on two characters: Bucket Boy's goggles remain 
 * [[Bailey]]
 
 # External Links
-[Instagram](https://www.instagram.com/p/B2-PE3DDoE7/)
-[Webtoons](https://www.webtoons.com/en/challenge/twistwood-tales/7-the-bully/viewer?title_no=344740&episode_no=7)
+* [Instagram](https://www.instagram.com/p/B2-PE3DDoE7/)
+* [Webtoons](https://www.webtoons.com/en/challenge/twistwood-tales/7-the-bully/viewer?title_no=344740&episode_no=7)

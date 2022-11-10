@@ -15,5 +15,5 @@ This Tale is completely without dialogue, being told solely through illustration
 * [[Minor Characters#Mousa|Mousa]]
 
 # External Links
-[Instagram](https://www.instagram.com/p/B3GMwFjjulH/)
-[Webtoons](https://www.webtoons.com/en/challenge/twistwood-tales/8-hometime/viewer?title_no=344740&episode_no=8)
+* [Instagram](https://www.instagram.com/p/B3GMwFjjulH/)
+* [Webtoons](https://www.webtoons.com/en/challenge/twistwood-tales/8-hometime/viewer?title_no=344740&episode_no=8)

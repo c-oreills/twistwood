@@ -18,5 +18,5 @@
 * [[Mendy]]
 
 # External Links
-[Instagram](https://www.instagram.com/p/B8PxI5jDc7m/)
-[Webtoons](https://www.webtoons.com/en/challenge/twistwood-tales/28-oda-the-viking-girl-/viewer?title_no=344740&episode_no=31)
+* [Instagram](https://www.instagram.com/p/B8PxI5jDc7m/)
+* [Webtoons](https://www.webtoons.com/en/challenge/twistwood-tales/28-oda-the-viking-girl-/viewer?title_no=344740&episode_no=31)

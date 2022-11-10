@@ -14,5 +14,5 @@
 * [[UN Rich Traveller Lady]]
 
 # External Links
-[Instagram](https://www.instagram.com/p/CQzl10Hjgsy/?igshid=YmMyMTA2M2Y=)
-[Webtoons](https://www.webtoons.com/en/challenge/twistwood-tales/84-the-robbery-/viewer?title_no=344740&episode_no=90)
+* [Instagram](https://www.instagram.com/p/CQzl10Hjgsy/?igshid=YmMyMTA2M2Y=)
+* [Webtoons](https://www.webtoons.com/en/challenge/twistwood-tales/84-the-robbery-/viewer?title_no=344740&episode_no=90)

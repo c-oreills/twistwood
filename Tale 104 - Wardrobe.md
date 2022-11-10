@@ -17,5 +17,5 @@
 * [[UN Charlie's Monster]]
 
 # External Links
-[Instagram](https://www.instagram.com/p/CZC54FDK9KU/?igshid=YmMyMTA2M2Y=)
-[Webtoons](https://www.webtoons.com/en/challenge/twistwood-tales/104-wardrobe/viewer?title_no=344740&episode_no=114)
+* [Instagram](https://www.instagram.com/p/CZC54FDK9KU/?igshid=YmMyMTA2M2Y=)
+* [Webtoons](https://www.webtoons.com/en/challenge/twistwood-tales/104-wardrobe/viewer?title_no=344740&episode_no=114)

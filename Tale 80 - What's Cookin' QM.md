@@ -13,5 +13,5 @@
 * [[The Wretch]]
 
 # External Links
-[Instagram](https://www.instagram.com/p/CQZJ_RRj5UZ/?igshid=YmMyMTA2M2Y=)
-[Webtoons](https://www.webtoons.com/en/challenge/twistwood-tales/80-whats-cookin/viewer?title_no=344740&episode_no=86)
+* [Instagram](https://www.instagram.com/p/CQZJ_RRj5UZ/?igshid=YmMyMTA2M2Y=)
+* [Webtoons](https://www.webtoons.com/en/challenge/twistwood-tales/80-whats-cookin/viewer?title_no=344740&episode_no=86)

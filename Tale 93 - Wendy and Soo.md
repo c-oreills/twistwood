@@ -15,5 +15,5 @@
 * [[The Wise Giant]]
 
 # External Links
-[Instagram](https://www.instagram.com/p/CS5YHADq1SN/?igshid=YmMyMTA2M2Y=)
-[Webtoons](https://www.webtoons.com/en/challenge/twistwood-tales/93-wendy-and-soo/viewer?title_no=344740&episode_no=99)
+* [Instagram](https://www.instagram.com/p/CS5YHADq1SN/?igshid=YmMyMTA2M2Y=)
+* [Webtoons](https://www.webtoons.com/en/challenge/twistwood-tales/93-wendy-and-soo/viewer?title_no=344740&episode_no=99)

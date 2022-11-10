@@ -14,5 +14,5 @@
 * [[Grim]]
 
 # External Links
-[Instagram](https://www.instagram.com/p/CNncgp1DCcj/?igshid=YmMyMTA2M2Y=)
-[Webtoons](https://www.webtoons.com/en/challenge/twistwood-tales/78-the-secret/viewer?title_no=344740&episode_no=84)
+* [Instagram](https://www.instagram.com/p/CNncgp1DCcj/?igshid=YmMyMTA2M2Y=)
+* [Webtoons](https://www.webtoons.com/en/challenge/twistwood-tales/78-the-secret/viewer?title_no=344740&episode_no=84)

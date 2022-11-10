@@ -15,5 +15,5 @@
 * [[Rose]]
 
 # External Links
-[Instagram](https://www.instagram.com/p/CiYAvAsswRy/?igshid=YmMyMTA2M2Y=)
-[Webtoons](https://www.webtoons.com/en/challenge/twistwood-tales/116-elunar-rose-and-the-pit/viewer?title_no=344740&episode_no=126)
+* [Instagram](https://www.instagram.com/p/CiYAvAsswRy/?igshid=YmMyMTA2M2Y=)
+* [Webtoons](https://www.webtoons.com/en/challenge/twistwood-tales/116-elunar-rose-and-the-pit/viewer?title_no=344740&episode_no=126)

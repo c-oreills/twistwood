@@ -17,5 +17,5 @@
 * [[Bailey]]
 
 # External Links
-[Instagram](https://www.instagram.com/p/CiqSQd9M0tS/?igshid=YmMyMTA2M2Y=)
-[Webtoons](https://www.webtoons.com/en/challenge/twistwood-tales/117-mind-reading-/viewer?title_no=344740&episode_no=127)
+* [Instagram](https://www.instagram.com/p/CiqSQd9M0tS/?igshid=YmMyMTA2M2Y=)
+* [Webtoons](https://www.webtoons.com/en/challenge/twistwood-tales/117-mind-reading-/viewer?title_no=344740&episode_no=127)

@@ -21,5 +21,5 @@ The author has commented implying that Dr Crowley comes from a long line of doct
 * [[UN RSI Patient]]
 
 # External Links
-[Instagram](https://www.instagram.com/p/CkhI65PK_GX/?igshid=YmMyMTA2M2Y=)
-[Webtoons](https://www.webtoons.com/en/challenge/twistwood-tales/120-wrist-trouble/viewer?title_no=344740&episode_no=134)
+* [Instagram](https://www.instagram.com/p/CkhI65PK_GX/?igshid=YmMyMTA2M2Y=)
+* [Webtoons](https://www.webtoons.com/en/challenge/twistwood-tales/120-wrist-trouble/viewer?title_no=344740&episode_no=134)

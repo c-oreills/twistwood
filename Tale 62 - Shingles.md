@@ -13,5 +13,5 @@
 * [[UN Bald Moustache Man]]
 
 # External Links
-[Instagram](https://www.instagram.com/p/CJEzBFZj38p/?igshid=YmMyMTA2M2Y=)
-[Webtoons](https://www.webtoons.com/en/challenge/twistwood-tales/62-shingles/viewer?title_no=344740&episode_no=67)
+* [Instagram](https://www.instagram.com/p/CJEzBFZj38p/?igshid=YmMyMTA2M2Y=)
+* [Webtoons](https://www.webtoons.com/en/challenge/twistwood-tales/62-shingles/viewer?title_no=344740&episode_no=67)

@@ -14,5 +14,5 @@ The immediate aftermath of this is unknown, but given that Train and the passeng
 * [[Minor Characters#Train Crew and Passengers|Train Crew and Passengers]]
 
 # External Links
-[Instagram](https://www.instagram.com/p/B2uhu4OgvcV/?igshid=YmMyMTA2M2Y=)
-[Webtoons](https://www.webtoons.com/en/challenge/twistwood-tales/5-all-aboard/viewer?title_no=344740&episode_no=5)
+* [Instagram](https://www.instagram.com/p/B2uhu4OgvcV/?igshid=YmMyMTA2M2Y=)
+* [Webtoons](https://www.webtoons.com/en/challenge/twistwood-tales/5-all-aboard/viewer?title_no=344740&episode_no=5)

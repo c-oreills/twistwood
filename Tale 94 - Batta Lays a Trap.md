@@ -15,5 +15,5 @@
 * [[The Wretch]]
 
 # External Links
-[Instagram]()
-[Webtoons](https://www.webtoons.com/en/challenge/twistwood-tales/94-batta-lays-a-trap/viewer?title_no=344740&episode_no=100)
+* [Instagram]()
+* [Webtoons](https://www.webtoons.com/en/challenge/twistwood-tales/94-batta-lays-a-trap/viewer?title_no=344740&episode_no=100)

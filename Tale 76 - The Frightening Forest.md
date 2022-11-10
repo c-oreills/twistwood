@@ -16,5 +16,5 @@
 * [[Wendy]]
 
 # External Links
-[Instagram](https://www.instagram.com/p/CNIgBJFD4sx/?igshid=YmMyMTA2M2Y=)
-[Webtoons](https://www.webtoons.com/en/challenge/twistwood-tales/76-the-frightening-forest/viewer?title_no=344740&episode_no=82)
+* [Instagram](https://www.instagram.com/p/CNIgBJFD4sx/?igshid=YmMyMTA2M2Y=)
+* [Webtoons](https://www.webtoons.com/en/challenge/twistwood-tales/76-the-frightening-forest/viewer?title_no=344740&episode_no=82)

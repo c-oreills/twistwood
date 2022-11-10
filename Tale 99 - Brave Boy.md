@@ -16,5 +16,5 @@
 * [[Dr Crowley]]
 
 # External Links
-[Instagram](https://www.instagram.com/p/CU3MdNYKStY/?igshid=YmMyMTA2M2Y=)
-[Webtoons](https://www.webtoons.com/en/challenge/twistwood-tales/99-brave-boy-/viewer?title_no=344740&episode_no=109)
+* [Instagram](https://www.instagram.com/p/CU3MdNYKStY/?igshid=YmMyMTA2M2Y=)
+* [Webtoons](https://www.webtoons.com/en/challenge/twistwood-tales/99-brave-boy-/viewer?title_no=344740&episode_no=109)

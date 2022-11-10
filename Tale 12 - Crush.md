@@ -21,5 +21,5 @@ The author has confirmed in Instagram comments that the hidden bear is the [[Bat
 * [[Tofi]]
 
 # External Links
-[Instagram](https://www.instagram.com/p/B3nVUGTAJxg/)
-[Webtoons](https://www.webtoons.com/en/challenge/twistwood-tales/12-crush/viewer?title_no=344740&episode_no=12)
+* [Instagram](https://www.instagram.com/p/B3nVUGTAJxg/)
+* [Webtoons](https://www.webtoons.com/en/challenge/twistwood-tales/12-crush/viewer?title_no=344740&episode_no=12)

@@ -14,5 +14,5 @@
 * [[UN Gnomehat]]
 
 # External Links
-[Instagram](https://www.instagram.com/p/CYpPg14K5Li/?igshid=YmMyMTA2M2Y=)
-[Webtoons](https://www.webtoons.com/en/challenge/twistwood-tales/104-fishcakes-wish/viewer?title_no=344740&episode_no=113)
+* [Instagram](https://www.instagram.com/p/CYpPg14K5Li/?igshid=YmMyMTA2M2Y=)
+* [Webtoons](https://www.webtoons.com/en/challenge/twistwood-tales/104-fishcakes-wish/viewer?title_no=344740&episode_no=113)

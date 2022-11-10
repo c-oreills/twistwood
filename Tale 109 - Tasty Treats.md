@@ -15,5 +15,5 @@
 * [[Oaki Loki]]
 
 # External Links
-[Instagram](https://www.instagram.com/p/CctRnR3M3fI/?igshid=YmMyMTA2M2Y=)
-[Webtoons](https://www.webtoons.com/en/challenge/twistwood-tales/109-tasty-treats/viewer?title_no=344740&episode_no=119)
+* [Instagram](https://www.instagram.com/p/CctRnR3M3fI/?igshid=YmMyMTA2M2Y=)
+* [Webtoons](https://www.webtoons.com/en/challenge/twistwood-tales/109-tasty-treats/viewer?title_no=344740&episode_no=119)

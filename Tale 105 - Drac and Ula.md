@@ -14,5 +14,5 @@
 * [[Drac]]
 
 # External Links
-[Instagram](https://www.instagram.com/p/CaDVitiM_lu/?igshid=YmMyMTA2M2Y=)
-[Webtoons](https://www.webtoons.com/en/challenge/twistwood-tales/105-drac-and-ula-/viewer?title_no=344740&episode_no=115)
+* [Instagram](https://www.instagram.com/p/CaDVitiM_lu/?igshid=YmMyMTA2M2Y=)
+* [Webtoons](https://www.webtoons.com/en/challenge/twistwood-tales/105-drac-and-ula-/viewer?title_no=344740&episode_no=115)

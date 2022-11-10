@@ -13,5 +13,5 @@
 * [[René]]
 
 # External Links
-[Instagram](https://www.instagram.com/p/Ch-iICzsM11/?igshid=YmMyMTA2M2Y=)
-[Webtoons](https://www.webtoons.com/en/challenge/twistwood-tales/115-ice-cubes/viewer?title_no=344740&episode_no=125)
+* [Instagram](https://www.instagram.com/p/Ch-iICzsM11/?igshid=YmMyMTA2M2Y=)
+* [Webtoons](https://www.webtoons.com/en/challenge/twistwood-tales/115-ice-cubes/viewer?title_no=344740&episode_no=125)

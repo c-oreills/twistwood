@@ -16,5 +16,5 @@ They also wonder if the being next being who is dipped and gets transformed into
 * [[Bathtub Baby Bear]]
 
 # External Links
-[Instagram](https://www.instagram.com/p/B22QJ8HDF8T/)
-[Webtoons](https://www.webtoons.com/en/challenge/twistwood-tales/6-the-enchanted-pond/viewer?title_no=344740&episode_no=6)
+* [Instagram](https://www.instagram.com/p/B22QJ8HDF8T/)
+* [Webtoons](https://www.webtoons.com/en/challenge/twistwood-tales/6-the-enchanted-pond/viewer?title_no=344740&episode_no=6)

@@ -14,5 +14,5 @@
 * [[Carbohydragon]]
 
 # External Links
-[Instagram](https://www.instagram.com/p/CQe0pItjjh_/?igshid=YmMyMTA2M2Y=)
-[Webtoons](https://www.webtoons.com/en/challenge/twistwood-tales/81-oaki-loki-and-the-magic-spell/viewer?title_no=344740&episode_no=87)
+* [Instagram](https://www.instagram.com/p/CQe0pItjjh_/?igshid=YmMyMTA2M2Y=)
+* [Webtoons](https://www.webtoons.com/en/challenge/twistwood-tales/81-oaki-loki-and-the-magic-spell/viewer?title_no=344740&episode_no=87)

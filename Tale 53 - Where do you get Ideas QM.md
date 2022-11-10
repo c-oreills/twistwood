@@ -13,5 +13,5 @@
 * [[Grim]]
 
 # External Links
-[Instagram](https://www.instagram.com/p/CE5OKXKD_w7/)
-[Webtoons](https://www.webtoons.com/en/challenge/twistwood-tales/53-where-do-you-get-ideas/viewer?title_no=344740&episode_no=58)
+* [Instagram](https://www.instagram.com/p/CE5OKXKD_w7/)
+* [Webtoons](https://www.webtoons.com/en/challenge/twistwood-tales/53-where-do-you-get-ideas/viewer?title_no=344740&episode_no=58)

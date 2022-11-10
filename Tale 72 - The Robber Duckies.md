@@ -15,5 +15,5 @@
 * [[UN Police Dog]]
 
 # External Links
-[Instagram](https://www.instagram.com/p/CKKnkeSDI2C/?igshid=YmMyMTA2M2Y=)
-[Webtoons](https://www.webtoons.com/en/challenge/twistwood-tales/72-the-robber-duckies/viewer?title_no=344740&episode_no=78)
+* [Instagram](https://www.instagram.com/p/CKKnkeSDI2C/?igshid=YmMyMTA2M2Y=)
+* [Webtoons](https://www.webtoons.com/en/challenge/twistwood-tales/72-the-robber-duckies/viewer?title_no=344740&episode_no=78)

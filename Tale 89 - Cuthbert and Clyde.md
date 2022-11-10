@@ -16,5 +16,5 @@
 * [[Strawberry Soo]]
 
 # External Links
-[Instagram](https://www.instagram.com/p/CSNYU87jWwY/?igshid=YmMyMTA2M2Y=)
-[Webtoons](https://www.webtoons.com/en/challenge/twistwood-tales/89-cuthbert-and-clyde/viewer?title_no=344740&episode_no=95)
+* [Instagram](https://www.instagram.com/p/CSNYU87jWwY/?igshid=YmMyMTA2M2Y=)
+* [Webtoons](https://www.webtoons.com/en/challenge/twistwood-tales/89-cuthbert-and-clyde/viewer?title_no=344740&episode_no=95)

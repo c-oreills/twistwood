@@ -15,5 +15,5 @@
 * [[Toes]]
 
 # External Links
-[Instagram](https://www.instagram.com/p/CYcJGRXKsPs/?igshid=YmMyMTA2M2Y=)
-[Webtoons](https://www.webtoons.com/en/challenge/twistwood-tales/102-grand-theft-sarnie/viewer?title_no=344740&episode_no=112)
+* [Instagram](https://www.instagram.com/p/CYcJGRXKsPs/?igshid=YmMyMTA2M2Y=)
+* [Webtoons](https://www.webtoons.com/en/challenge/twistwood-tales/102-grand-theft-sarnie/viewer?title_no=344740&episode_no=112)

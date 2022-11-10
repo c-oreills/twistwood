@@ -13,5 +13,5 @@
 * [[Dr Crowley]]
 
 # External Links
-[Instagram](https://www.instagram.com/p/CUIsly2KQkB/?igshid=YmMyMTA2M2Y=)
-[Webtoons](https://www.webtoons.com/en/challenge/twistwood-tales/97-craving/viewer?title_no=344740&episode_no=103)
+* [Instagram](https://www.instagram.com/p/CUIsly2KQkB/?igshid=YmMyMTA2M2Y=)
+* [Webtoons](https://www.webtoons.com/en/challenge/twistwood-tales/97-craving/viewer?title_no=344740&episode_no=103)

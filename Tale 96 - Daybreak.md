@@ -13,5 +13,5 @@
 * [[Bookly Mouse]]
 
 # External Links
-[Instagram](https://www.instagram.com/p/CT2snF_Kmz2/?igshid=YmMyMTA2M2Y=)
-[Webtoons](https://www.webtoons.com/en/challenge/twistwood-tales/96-daybreak-/viewer?title_no=344740&episode_no=102)
+* [Instagram](https://www.instagram.com/p/CT2snF_Kmz2/?igshid=YmMyMTA2M2Y=)
+* [Webtoons](https://www.webtoons.com/en/challenge/twistwood-tales/96-daybreak-/viewer?title_no=344740&episode_no=102)

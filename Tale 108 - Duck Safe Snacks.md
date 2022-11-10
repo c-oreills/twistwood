@@ -14,5 +14,5 @@
 * [[UN Rich Man]]
 
 # External Links
-[Instagram](https://www.instagram.com/p/CclYJ4ps8AV/?igshid=YmMyMTA2M2Y=)
-[Webtoons](https://www.webtoons.com/en/challenge/twistwood-tales/108-duck-safe-snacks/viewer?title_no=344740&episode_no=118)
+* [Instagram](https://www.instagram.com/p/CclYJ4ps8AV/?igshid=YmMyMTA2M2Y=)
+* [Webtoons](https://www.webtoons.com/en/challenge/twistwood-tales/108-duck-safe-snacks/viewer?title_no=344740&episode_no=118)

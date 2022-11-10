@@ -29,5 +29,5 @@ This Tale is reposted at Hallowe'en to celebrate the holiday.
 * [[Minor Characters#Fairy Gourd Mother|Fairy Gourd Mother]]
 
 # External Links
-[Instagram](https://www.instagram.com/p/B35Rm7vAszu/)
-[Webtoons](https://www.webtoons.com/en/challenge/twistwood-tales/13-the-fairy-gourd-mother/viewer?title_no=344740&episode_no=13)
+* [Instagram](https://www.instagram.com/p/B35Rm7vAszu/)
+* [Webtoons](https://www.webtoons.com/en/challenge/twistwood-tales/13-the-fairy-gourd-mother/viewer?title_no=344740&episode_no=13)

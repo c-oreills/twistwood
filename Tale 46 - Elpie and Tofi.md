@@ -16,5 +16,5 @@ Beetles record
 * [[Tofi]]
 
 # External Links
-[Instagram](https://www.instagram.com/p/CB89a1fDJtd/)
-[Webtoons](https://www.webtoons.com/en/challenge/twistwood-tales/46-elpie-and-tofi-/viewer?title_no=344740&episode_no=50)
+* [Instagram](https://www.instagram.com/p/CB89a1fDJtd/)
+* [Webtoons](https://www.webtoons.com/en/challenge/twistwood-tales/46-elpie-and-tofi-/viewer?title_no=344740&episode_no=50)

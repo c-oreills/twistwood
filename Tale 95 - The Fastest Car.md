@@ -14,5 +14,5 @@
 * [[UN Police Dog]]
 
 # External Links
-[Instagram](https://www.instagram.com/p/CTVm9p0qAl1/?igshid=YmMyMTA2M2Y=)
-[Webtoons](https://www.webtoons.com/en/challenge/twistwood-tales/95-the-fastest-car/viewer?title_no=344740&episode_no=101)
+* [Instagram](https://www.instagram.com/p/CTVm9p0qAl1/?igshid=YmMyMTA2M2Y=)
+* [Webtoons](https://www.webtoons.com/en/challenge/twistwood-tales/95-the-fastest-car/viewer?title_no=344740&episode_no=101)

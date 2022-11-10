@@ -15,5 +15,5 @@
 * [[Redboots]]
 
 # External Links
-[Instagram](https://www.instagram.com/p/CcYNE32MDiJ/?igshid=YmMyMTA2M2Y=)
-[Webtoons](https://www.webtoons.com/en/challenge/twistwood-tales/107-comedy-night/viewer?title_no=344740&episode_no=117)
+* [Instagram](https://www.instagram.com/p/CcYNE32MDiJ/?igshid=YmMyMTA2M2Y=)
+* [Webtoons](https://www.webtoons.com/en/challenge/twistwood-tales/107-comedy-night/viewer?title_no=344740&episode_no=117)

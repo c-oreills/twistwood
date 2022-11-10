@@ -13,5 +13,5 @@
 * [[Grokie]]
 
 # External Links
-[Instagram](https://www.instagram.com/p/CJZBosrjBsS/?igshid=YmMyMTA2M2Y=)
-[Webtoons](https://www.webtoons.com/en/challenge/twistwood-tales/64-grokie-and-the-ice-queen/viewer?title_no=344740&episode_no=69)
+* [Instagram](https://www.instagram.com/p/CJZBosrjBsS/?igshid=YmMyMTA2M2Y=)
+* [Webtoons](https://www.webtoons.com/en/challenge/twistwood-tales/64-grokie-and-the-ice-queen/viewer?title_no=344740&episode_no=69)

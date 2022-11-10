@@ -15,5 +15,5 @@
 * [[Guster]]
 
 # External Links
-[Instagram](https://www.instagram.com/p/CUN_05Jqgy0/?igshid=YmMyMTA2M2Y=)
-[Webtoons](https://www.webtoons.com/en/challenge/twistwood-tales/98-argument/viewer?title_no=344740&episode_no=104)
+* [Instagram](https://www.instagram.com/p/CUN_05Jqgy0/?igshid=YmMyMTA2M2Y=)
+* [Webtoons](https://www.webtoons.com/en/challenge/twistwood-tales/98-argument/viewer?title_no=344740&episode_no=104)

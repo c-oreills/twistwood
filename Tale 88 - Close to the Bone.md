@@ -15,5 +15,5 @@
 * [[Henry]]
 
 # External Links
-[Instagram](https://www.instagram.com/p/CSAkx-Djaxp/?igshid=YmMyMTA2M2Y=)
-[Webtoons](https://www.webtoons.com/en/challenge/twistwood-tales/88-close-to-the-bone/viewer?title_no=344740&episode_no=94)
+* [Instagram](https://www.instagram.com/p/CSAkx-Djaxp/?igshid=YmMyMTA2M2Y=)
+* [Webtoons](https://www.webtoons.com/en/challenge/twistwood-tales/88-close-to-the-bone/viewer?title_no=344740&episode_no=94)

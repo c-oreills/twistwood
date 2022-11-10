@@ -12,5 +12,5 @@ The bird retrieves his hat and briefcase from behind a chipped sword and flies h
 * [[UN Songbird]]
 
 # External Links
-[Instagram](https://www.instagram.com/p/B3MiugNDkla/)
-[Webtoons](https://www.webtoons.com/en/challenge/twistwood-tales/9-birdsong/viewer?title_no=344740&episode_no=9)
+* [Instagram](https://www.instagram.com/p/B3MiugNDkla/)
+* [Webtoons](https://www.webtoons.com/en/challenge/twistwood-tales/9-birdsong/viewer?title_no=344740&episode_no=9)

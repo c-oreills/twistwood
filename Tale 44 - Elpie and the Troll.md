@@ -16,5 +16,5 @@
 * [[UN Troll Kids]]
 
 # External Links
-[Instagram](https://www.instagram.com/p/CBeckJJD7zv/)
-[Webtoons](https://www.webtoons.com/en/challenge/twistwood-tales/44-elpie-and-the-troll/viewer?title_no=344740&episode_no=48)
+* [Instagram](https://www.instagram.com/p/CBeckJJD7zv/)
+* [Webtoons](https://www.webtoons.com/en/challenge/twistwood-tales/44-elpie-and-the-troll/viewer?title_no=344740&episode_no=48)

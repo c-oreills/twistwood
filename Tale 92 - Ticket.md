@@ -14,5 +14,5 @@
 * [[Toes]]
 
 # External Links
-[Instagram](https://www.instagram.com/p/CSpzUZTqfIY/?igshid=YmMyMTA2M2Y=)
-[Webtoons](https://www.webtoons.com/en/challenge/twistwood-tales/92-ticket/viewer?title_no=344740&episode_no=98)
+* [Instagram](https://www.instagram.com/p/CSpzUZTqfIY/?igshid=YmMyMTA2M2Y=)
+* [Webtoons](https://www.webtoons.com/en/challenge/twistwood-tales/92-ticket/viewer?title_no=344740&episode_no=98)

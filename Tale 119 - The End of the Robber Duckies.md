@@ -6,8 +6,8 @@
 > These two have been on a journey of self reflection recently, so I thought it was time to take them onto the next part of their adventure!
 
 # Hidden Item
-Item: Ace of Clubs
-Location: ~~~~
+* Item: Ace of Clubs
+* Location: <spoiler></spoiler>
 
 # Characters
 * [[Fingers]]

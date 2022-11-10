@@ -7,8 +7,8 @@ Rock Girl sits alone on the beach with her spade and sadly watches the others ha
 It's been commented by the author that by using his head to make a sandcastle, Bucket Boy has gone ["head over heels"](https://en.wiktionary.org/wiki/head_over_heels) for Rock Girl (or more correctly, heels over head, as per the original phrasing)^[Instagram comment from @bytwistwood "he's head over heels ;)"]. This suggests he may be in love with her.
 
 # Hidden Item
-Item: Bee
-Location: ~~Panel 3, in the grass~~
+* Item: Bee
+* Location: <spoiler>Panel 3, in the grass</spoiler>
 
 # Characters
 * [[Bucket Boy]]

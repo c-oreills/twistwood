@@ -5,8 +5,8 @@
 > Based on a true story haha T_T
 
 # Hidden Item
-Item: Toothbrush
-Location: ~~~~
+* Item: Toothbrush
+* Location: <spoiler></spoiler>
 
 # Characters
 * [[Loghead]]

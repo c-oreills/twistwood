@@ -5,8 +5,8 @@
 > Chin up Loghead!
 
 # Hidden Item
-Item: Swirl
-Location: ~~~~
+* Item: Swirl
+* Location: <spoiler></spoiler>
 
 # Characters
 * [[Bar Fox]]

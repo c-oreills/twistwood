@@ -5,8 +5,8 @@
 > Poor Rudolf!
 
 # Hidden Item
-Item: Mushroom
-Location: ~~~~
+* Item: Mushroom
+* Location: <spoiler></spoiler>
 
 # Characters
 * [[Button]]

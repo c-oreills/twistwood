@@ -5,8 +5,8 @@
 > This was originally posted right after Christmas, in case you were confused about her talking getting gifts :D
 
 # Hidden Item
-Item: Pear
-Location: ~~~~
+* Item: Pear
+* Location: <spoiler></spoiler>
 
 # Characters
 * [[Majesticy]]

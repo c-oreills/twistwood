@@ -5,8 +5,8 @@
 > The more the merrier! Elunar learns a way to deal with shadows from Padlock the Frog.
 
 # Hidden Item
-Item: Rook
-Location: ~~Panel 2, bottom right~~
+* Item: Rook
+* Location: <spoiler>Panel 2, bottom right</spoiler>
 
 # Characters
 * [[Padlock]]

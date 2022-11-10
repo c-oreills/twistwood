@@ -7,8 +7,8 @@
 > Hello everyone! It's been a while! Happy New Year :D Thank you for still following my comic. I hope you enjoy the next round of Twistwood Tales I have in store for you :)
 
 # Hidden Item
-Item: Mr Goose
-Location: ~~Panel 2, tombstone on the left~~
+* Item: Mr Goose
+* Location: <spoiler>Panel 2, tombstone on the left</spoiler>
 
 # Characters
 * [[Redboots]]

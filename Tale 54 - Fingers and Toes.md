@@ -5,8 +5,8 @@
 > Hide your Gems!
 
 # Hidden Item
-Item: Anchor
-Location: ~~~~
+* Item: Anchor
+* Location: <spoiler></spoiler>
 
 # Characters
 * [[Fingers]]

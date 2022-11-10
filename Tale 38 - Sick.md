@@ -5,8 +5,8 @@
 > When Dr.Crowley gets board.
 
 # Hidden Item
-Item: Spider
-Location: ~~~~
+* Item: Spider
+* Location: <spoiler></spoiler>
 
 # Characters
 * [[Hank]]

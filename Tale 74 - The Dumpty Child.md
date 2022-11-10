@@ -5,8 +5,8 @@
 > Hello everyone! Did you know that in the original Humpty Dumpty Rhyme, it never states Humpty Dumpty is an egg?!
 
 # Hidden Item
-Item: Earring
-Location: ~~~~
+* Item: Earring
+* Location: <spoiler></spoiler>
 
 # Characters
 * [[Dumpty Child]]

@@ -7,8 +7,8 @@
 > I think it's good, when it's dark, to be reminded there are stairs out of the pit
 
 # Hidden Item
-Item: The door
-Location: ~~Panel 2, under Elunar's stepping stone~~
+* Item: The door
+* Location: <spoiler>Panel 2, under Elunar's stepping stone</spoiler>
 
 # Characters
 * [[Elunar]]

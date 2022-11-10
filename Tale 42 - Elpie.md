@@ -5,8 +5,8 @@
 > Spot the homage >.>
 
 # Hidden Item
-Item: Cork
-Location: ~~~~
+* Item: Cork
+* Location: <spoiler></spoiler>
 
 # Characters
 * [[Mrs Inventor]]

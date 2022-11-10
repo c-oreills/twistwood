@@ -5,8 +5,8 @@
 > “The Fastest Car” Cool Mole McKole wants to show off his new wheels. Also his old fashioned Kamina inspired glasses(!) Thinking about getting a new car - one of my dream ones to get is the wee yellow one from Lupin III - One day... Do you have a dream car?
 
 # Hidden Item
-Item: Shield
-Location: ~~Panel 4, next to the rock on the left~~
+* Item: Shield
+* Location: <spoiler>Panel 4, next to the rock on the left</spoiler>
 
 # Characters
 * [[Brian "Cool Mole" McKole]]

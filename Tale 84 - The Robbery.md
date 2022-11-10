@@ -5,8 +5,8 @@
 > Fun fact! I find drawing horses very challenging. I made it to tale 84 before i had to include one. Is there something that you wish you could draw better with your own artwork?
 
 # Hidden Item
-Item: Emerald
-Location: ~~Panel 1, bottom left~~
+* Item: Emerald
+* Location: <spoiler>Panel 1, bottom left</spoiler>
 
 # Characters
 * [[Toes]]

@@ -5,8 +5,8 @@
 > Mary takes her grand daughter out cloud spotting. Fishcake has lunch plans.
 
 # Hidden Item
-Item: Crescent
-Location: ~~~~
+* Item: Crescent
+* Location: <spoiler></spoiler>
 
 # Characters
 * [[Lisa]]

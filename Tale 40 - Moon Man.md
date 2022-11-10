@@ -5,8 +5,8 @@
 > Poor Grim!
 
 # Hidden Item
-Item: Toadstool
-Location: ~~~~
+* Item: Toadstool
+* Location: <spoiler></spoiler>
 
 # Characters
 * [[William]]

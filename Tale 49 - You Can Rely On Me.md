@@ -5,8 +5,8 @@
 > I realise the Dead Lion word play may only work with certain accents.
 
 # Hidden Item
-Item: Ice Skate
-Location: ~~~~
+* Item: Ice Skate
+* Location: <spoiler></spoiler>
 
 # Characters
 * [[Sprout]]

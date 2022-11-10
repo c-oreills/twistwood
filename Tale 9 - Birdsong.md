@@ -4,8 +4,8 @@ A mighty warrior sits combing her long hair atop a huge mound of corpses, weapon
 The bird retrieves his hat and briefcase from behind a chipped sword and flies home. His wife is doing housework and cheerfully enquires about his day. Shellshocked, he tells her about all the blood.
 
 # Hidden Item
-Item: Acorn
-Location: ~~Panel 4, on the right curtain~~
+* Item: Acorn
+* Location: <spoiler>Panel 4, on the right curtain</spoiler>
 
 # Characters
 * [[UN Warrior Lady]]

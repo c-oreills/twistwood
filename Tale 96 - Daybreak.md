@@ -5,8 +5,8 @@
 > “Daybreak” This Tale is dedicated to all those who care for others out there - i’m fortunate to know many! But this is just to say to them it’s alright to take a break and give yourself time to recharge and replenish
 
 # Hidden Item
-Item: Badge
-Location: ~~~~
+* Item: Badge
+* Location: <spoiler></spoiler>
 
 # Characters
 * [[Elunar]]

@@ -5,8 +5,8 @@
 > Oda the Viking teaches Oaki Loki an important lesson.
 
 # Hidden Item
-Item: Cog
-Location: ~~Panel 4, behind the target~~
+* Item: Cog
+* Location: <spoiler>Panel 4, behind the target</spoiler>
 
 # Characters
 * [[Oda]]

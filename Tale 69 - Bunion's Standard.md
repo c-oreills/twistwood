@@ -5,8 +5,8 @@
 > Long time readers might recognise the couple above! They can’t catch a break haha
 
 # Hidden Item
-Item: Biscuit
-Location: ~~~~
+* Item: Biscuit
+* Location: <spoiler></spoiler>
 
 # Characters
 * [[Mrs Bunion]]

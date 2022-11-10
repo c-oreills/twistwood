@@ -5,8 +5,8 @@
 > I used to believe this for more years than I wish to admit.
 
 # Hidden Item
-Item: Clover
-Location: ~~~~
+* Item: Clover
+* Location: <spoiler></spoiler>
 
 # Characters
 * [[Sprout]]

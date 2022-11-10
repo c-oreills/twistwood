@@ -5,8 +5,8 @@
 > I genuinely used to use this technique on planes haha
 
 # Hidden Item
-Item: Rattle
-Location: ~~~~
+* Item: Rattle
+* Location: <spoiler></spoiler>
 
 # Characters
 * [[Clyde]]

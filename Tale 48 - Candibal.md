@@ -5,8 +5,8 @@
 > Knight Owl accidentally creates a monster
 
 # Hidden Item
-Item: Mug of Tea
-Location: ~~~~
+* Item: Mug of Tea
+* Location: <spoiler></spoiler>
 
 # Characters
 * [[Candibal]]

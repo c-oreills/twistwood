@@ -5,8 +5,8 @@
 > A double comic upload today folks! And with this upload I have finally caught Webtoons Twistwood Tales up to have the latest comic in the series! Finally!
 
 # Hidden Item
-Item: Match
-Location: ~~Panel 4, in René's hand~~
+* Item: Match
+* Location: <spoiler>Panel 4, in René's hand</spoiler>
 
 # Characters
 * [[Dr Crowley]]

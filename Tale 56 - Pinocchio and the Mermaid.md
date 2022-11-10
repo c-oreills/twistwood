@@ -5,8 +5,8 @@
 > In the land of Twistwood forest, the Mermaids are carnivores...
 
 # Hidden Item
-Item: Eggs
-Location: ~~~~
+* Item: Eggs
+* Location: <spoiler></spoiler>
 
 # Characters
 * [[Fishcake]]

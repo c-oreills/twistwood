@@ -8,8 +8,8 @@
 > Regarding this week's tale, do you have an fav aesop fable that you'd like to see a Twistwood Tale version of?
 
 # Hidden Item
-Item: 
-Location: ~~~~
+* Item: 
+* Location: <spoiler></spoiler>
 
 # Characters
 * [[Hare]]

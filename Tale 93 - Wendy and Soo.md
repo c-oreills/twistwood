@@ -5,8 +5,8 @@
 > “Wendy and Soo” I realise I haven’t given much attention to Wendy, twin of Mendy all this time. Wendy and Mendy are the Twin nurse Gnomes that work for Dr Crowley.
 
 # Hidden Item
-Item: Wise Giant
-Location: ~~Panel 2, in background with Dr Crowley~~
+* Item: Wise Giant
+* Location: <spoiler>Panel 2, in background with Dr Crowley</spoiler>
 
 # Characters
 * [[Wendy]]

@@ -5,8 +5,8 @@
 > Loghead has a chat with the Bar Fox
 
 # Hidden Item
-Item: Leaf
-Location: ~~~~
+* Item: Leaf
+* Location: <spoiler></spoiler>
 
 # Characters
 * [[Loghead]]

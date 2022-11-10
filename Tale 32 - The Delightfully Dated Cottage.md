@@ -5,8 +5,8 @@
 > Bucket Boy, Steven and Jill the Lumberjack take shelter in an old cottage in the Greater Tree Forest, at the edge of the Twistwood.
 
 # Hidden Item
-Item: Spoon
-Location: ~~~~
+* Item: Spoon
+* Location: <spoiler></spoiler>
 
 # Characters
 * [[Jill]]

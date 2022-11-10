@@ -5,8 +5,8 @@
 > I imagine a seal would value a daisy chain immensely, given his flippers being... flappy... and not very dextrous?... (Daisies are pretty big in the world of Twistwood, as you can see!)
 
 # Hidden Item
-Item: Jetty
-Location: ~~~~
+* Item: Jetty
+* Location: <spoiler></spoiler>
 
 # Characters
 * [[Lisa]]

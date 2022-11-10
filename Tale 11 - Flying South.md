@@ -10,8 +10,8 @@ According to the author's Instagram comments, the woodpecker's style is an homag
 > The birds are flying south!
 
 # Hidden Item
-Item: Pumpkin
-Location: ~~Panel 2, in the leaves at the top~~
+* Item: Pumpkin
+* Location: <spoiler>Panel 2, in the leaves at the top</spoiler>
 
 # Characters
 * [[Loghead]]

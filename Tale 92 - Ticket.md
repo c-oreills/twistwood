@@ -5,8 +5,8 @@
 > Long term readers may recognise Liza, the lady from Episode 3!
 
 # Hidden Item
-Item: Pop corn
-Location: ~~~~
+* Item: Pop corn
+* Location: <spoiler></spoiler>
 
 # Characters
 * [[Fingers]]

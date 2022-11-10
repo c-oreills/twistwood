@@ -5,8 +5,8 @@
 > Finally got round to drawing a Tale that has both Loghead and Dr Crowley in it :' D
 
 # Hidden Item
-Item: Pawn
-Location: ~~~~
+* Item: Pawn
+* Location: <spoiler></spoiler>
 
 # Characters
 * [[Dr Crowley]]

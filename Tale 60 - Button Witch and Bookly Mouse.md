@@ -5,8 +5,8 @@
 > Button Witch and Bookly Mouse head off to bed. Sadly another tale based on a true story...
 
 # Hidden Item
-Item: Skull
-Location: ~~~~
+* Item: Skull
+* Location: <spoiler></spoiler>
 
 # Characters
 * [[Bookly Mouse]]

@@ -5,8 +5,8 @@
 > I am going to upload all the missing Tales so far - As you can see this one came out in January, so I have a few to go haha
 
 # Hidden Item
-Item: Fish
-Location: ~~~~
+* Item: Fish
+* Location: <spoiler></spoiler>
 
 # Characters
 * [[Tater Sam]]

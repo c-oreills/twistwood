@@ -5,8 +5,8 @@
 > Saw this bizarre looking suit and just HAD to create a wee story based on it. I wish I had one - especially for doing the groceries during these strange times!
 
 # Hidden Item
-Item: Clubs
-Location: ~~~~
+* Item: Clubs
+* Location: <spoiler></spoiler>
 
 # Characters
 * [[William]]

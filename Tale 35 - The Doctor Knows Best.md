@@ -5,8 +5,8 @@
 > All that open air does patients a world of good.
 
 # Hidden Item
-Item: Bell
-Location: ~~~~
+* Item: Bell
+* Location: <spoiler></spoiler>
 
 # Characters
 * [[Henry]]

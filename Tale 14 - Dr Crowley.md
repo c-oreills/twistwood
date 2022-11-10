@@ -5,8 +5,8 @@
 > Any guesses for who is being stitched up? :D
 
 # Hidden Item
-Item: Fork
-Location: ~~~~
+* Item: Fork
+* Location: <spoiler></spoiler>
 
 # Characters
 * [[Dr Crowley]]

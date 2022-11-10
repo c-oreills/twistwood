@@ -5,8 +5,8 @@
 > ( Calling out myself here haha ) So! Argus the Imagician has now set up an Art School and has his second student.
 
 # Hidden Item
-Item: Chalk
-Location: ~~~~
+* Item: Chalk
+* Location: <spoiler></spoiler>
 
 # Characters
 * [[Guster]]

@@ -5,8 +5,8 @@
 > I wonder what Strawberry Soo knows of the long arm of the law?
 
 # Hidden Item
-Item: Berries
-Location: ~~~~
+* Item: Berries
+* Location: <spoiler></spoiler>
 
 # Characters
 * [[Strawberry Soo]]

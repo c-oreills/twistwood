@@ -7,8 +7,8 @@
 > Oh did you know know that Satyr kinda rhymes with Baker? A happy accident on my part.
 
 # Hidden Item
-Item: Red button
-Location: ~~Panel 3, on Tater Sam's shirt~~
+* Item: Red button
+* Location: <spoiler>Panel 3, on Tater Sam's shirt</spoiler>
 
 # Characters
 * [[Tater Sam]]

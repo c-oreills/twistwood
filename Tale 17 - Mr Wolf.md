@@ -5,8 +5,8 @@
 > She was cool.
 
 # Hidden Item
-Item: Carrot
-Location: ~~Panel 1, bottom left shelf on a book~~
+* Item: Carrot
+* Location: <spoiler>Panel 1, bottom left shelf on a book</spoiler>
 
 # Characters
 * [[Mr Wolf]]

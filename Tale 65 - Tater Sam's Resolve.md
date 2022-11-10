@@ -5,8 +5,8 @@
 > Tater Sam receives a gift!
 
 # Hidden Item
-Item: Daisy
-Location: ~~~~
+* Item: Daisy
+* Location: <spoiler></spoiler>
 
 # Characters
 * [[Padlock]]

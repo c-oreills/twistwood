@@ -5,8 +5,8 @@
 > Once when i was younger i was staying in a converted monastery. At night i found it very hard to sleep as my neighbours were always playing the radio loud on the classical channel. Classic music like monks singing. I thought it was quite rude and inconsiderate. It was only once i finally left that i was told there were no neighbours. Haha Have you a ghost story experience?
 
 # Hidden Item
-Item: Peanut 
-Location: ~~~~
+* Item: Peanut 
+* Location: <spoiler></spoiler>
 
 # Characters
 * [[Professor Crisp]]

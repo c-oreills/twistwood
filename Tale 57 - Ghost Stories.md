@@ -5,8 +5,8 @@
 > Trevor looks forward to Eve the babysitter arriving.
 
 # Hidden Item
-Item: Toy Soldier
-Location: ~~~~
+* Item: Toy Soldier
+* Location: <spoiler></spoiler>
 
 # Characters
 * [[Charlie]]

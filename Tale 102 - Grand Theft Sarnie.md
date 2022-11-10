@@ -5,8 +5,8 @@
 > Thinking of uploading once a week on Tuesdays.. will see if I can keep this routine up for a while!
 
 # Hidden Item
-Item: Tea Pot
-Location: ~~Panel 1, behind the wall~~
+* Item: Tea Pot
+* Location: <spoiler>Panel 1, behind the wall</spoiler>
 
 # Characters
 * [[UN Guards]]

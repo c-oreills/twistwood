@@ -5,8 +5,8 @@
 > “Argument” - this comic is directed at myself when i was younger, when i could spend literally all night till the morning debating art with my pals. (I wish i were kidding.)
 
 # Hidden Item
-Item: Chisel
-Location: ~~Panel 4, behind Art Moose~~
+* Item: Chisel
+* Location: <spoiler>Panel 4, behind Art Moose</spoiler>
 
 # Characters
 * [[Argus]]

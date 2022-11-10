@@ -12,8 +12,8 @@ The author has confirmed in Instagram comments that the hidden bear is the [[Bat
 > How could anyone compete?
 
 # Hidden Item
-Item: Bear
-Location: ~~Panel 2, behind the house~~
+* Item: Bear
+* Location: <spoiler>Panel 2, behind the house</spoiler>
 
 # Characters
 * [[Rock Girl]]

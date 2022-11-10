@@ -20,8 +20,8 @@ This Tale is reposted at Hallowe'en to celebrate the holiday.
 > What scented candle would you hope for?
 
 # Hidden Item
-Item: Sock
-Location: ~~Panel 4, at the bottom of the cage~~
+* Item: Sock
+* Location: <spoiler>Panel 4, at the bottom of the cage</spoiler>
 
 # Characters
 * [[Pumpkin Kid]]

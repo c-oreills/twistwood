@@ -12,8 +12,8 @@ The author has commented implying that Dr Crowley comes from a long line of doct
 > (More of the longer Twistober Tale of Loghead and the balloon coming soon)
 
 # Hidden Item
-Item: Pillow
-Location: ~~~~
+* Item: Pillow
+* Location: <spoiler></spoiler>
 
 # Characters
 * [[Dr Crowley]]

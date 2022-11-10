@@ -5,8 +5,8 @@
 > A double upload today folks!  Keep and eye out for the next one!
 
 # Hidden Item
-Item: Cornet
-Location: ~~~~
+* Item: Cornet
+* Location: <spoiler></spoiler>
 
 # Characters
 * [[Bagalini]]

@@ -5,8 +5,8 @@
 > Fishcake’s Wish! The King of Seals and Fishcake return. Also long term readers, you may recognise the man on the rock. If I met the King of Seals I would wish for one of those sea shells that sound like the ocean when you hold em up to your ear. So that i can put it next to my pillow and save my phone’s battery life from playing those “10hr sounds of waves” YouTube videos overnight to help sleep
 
 # Hidden Item
-Item: Hook
-Location: ~~Panel 1, in King of Seal's tail~~
+* Item: Hook
+* Location: <spoiler>Panel 1, in King of Seal's tail</spoiler>
 
 # Characters
 * [[Fishcake]]

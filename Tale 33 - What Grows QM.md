@@ -5,8 +5,8 @@
 > The Farmer cheers up Strawberry Soo
 
 # Hidden Item
-Item: Diamond
-Location: ~~~~
+* Item: Diamond
+* Location: <spoiler></spoiler>
 
 # Characters
 * [[The Farmer]]

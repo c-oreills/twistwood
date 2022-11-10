@@ -5,8 +5,8 @@
 > Grim and Argus have a wee chat about inspiration.
 
 # Hidden Item
-Item: Wiggly worm
-Location: ~~~~
+* Item: Wiggly worm
+* Location: <spoiler></spoiler>
 
 # Characters
 * [[Argus]]

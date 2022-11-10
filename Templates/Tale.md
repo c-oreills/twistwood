@@ -2,8 +2,8 @@
 
 
 # Hidden Item
-Item: 
-Location: ~~~~
+* Item: 
+* Location: <spoiler></spoiler>
 
 # Characters
 * 

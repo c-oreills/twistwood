@@ -5,8 +5,8 @@
 > This is one of the oldest Twistwood Tales i wrote, and i’ve only now got around to drawing it O_O I wonder where Knight Owl got that magic wand from ?
 
 # Hidden Item
-Item: Dominoe (sic)
-Location: ~~Panel 1, in the grass~~
+* Item: Dominoe (sic)
+* Location: <spoiler>Panel 1, in the grass</spoiler>
 
 # Characters
 * [[Oaki Loki]]

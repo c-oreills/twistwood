@@ -4,8 +4,8 @@
 > Flopie Bunny moves to the edge of the Twistwood and meets her new neighbours.
 
 # Hidden Item
-Item: [[Chester]]
-Location: ~~Panel 4, in the portrait behind Bailey's hand~~
+* Item: [[Chester]]
+* Location: <spoiler>Panel 4, in the portrait behind Bailey's hand</spoiler>
 
 # Characters
 * [[Flopie]]

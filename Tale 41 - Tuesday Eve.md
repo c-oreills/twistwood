@@ -5,8 +5,8 @@
 > Spooky
 
 # Hidden Item
-Item: Bowtie
-Location: ~~~~
+* Item: Bowtie
+* Location: <spoiler></spoiler>
 
 # Characters
 * [[Eve]]

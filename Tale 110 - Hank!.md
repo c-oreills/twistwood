@@ -5,8 +5,8 @@
 > Hank! A returning character from Episode 38, Hank returns slightly more cantankerous.
 
 # Hidden Item
-Item: Hot chocolate
-Location: ~~~~
+* Item: Hot chocolate
+* Location: <spoiler></spoiler>
 
 # Characters
 * [[UN Goose]]

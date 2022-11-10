@@ -5,8 +5,8 @@
 > I like to imagine that other than the farmer, the one who cares most for the Crop People would be their Scarecrow, Strawberry Soo.
 
 # Hidden Item
-Item: Ink pen
-Location: ~~~~
+* Item: Ink pen
+* Location: <spoiler></spoiler>
 
 # Characters
 * [[Strawberry Soo]]

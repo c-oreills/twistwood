@@ -5,8 +5,8 @@
 > With respect to Alan Moore
 
 # Hidden Item
-Item: Pipe
-Location: ~~~~
+* Item: Pipe
+* Location: <spoiler></spoiler>
 
 # Characters
 * [[Bagalini]]

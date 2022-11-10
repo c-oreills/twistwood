@@ -5,8 +5,8 @@
 > The great Detective Pines is on the case!
 
 # Hidden Item
-Item: Pliers
-Location: ~~~~
+* Item: Pliers
+* Location: <spoiler></spoiler>
 
 # Characters
 * [[Detective Pines]]

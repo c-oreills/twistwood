@@ -5,8 +5,8 @@
 > Mrs Bunion comes to stay at Padlock's Koorey Inn
 
 # Hidden Item
-Item: Comb
-Location: ~~~~
+* Item: Comb
+* Location: <spoiler></spoiler>
 
 # Characters
 * [[Mrs Bunion]]

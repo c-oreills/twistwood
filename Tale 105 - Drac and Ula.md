@@ -6,8 +6,8 @@
 > (10 pts to Gryffindor if you take shorter than 6 hours to work it out like I did...)
 
 # Hidden Item
-Item: Broken pocket watch
-Location: ~~Panel 4, coming out of Drac's pocket~~
+* Item: Broken pocket watch
+* Location: <spoiler>Panel 4, coming out of Drac's pocket</spoiler>
 
 # Characters
 * [[Ula]]

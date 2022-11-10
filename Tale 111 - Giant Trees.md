@@ -5,8 +5,8 @@
 > I feel like it is time to start showing more of the south eastern edges of Twistwood Forest. Here we have the first Orc character in the comic, the Chief Horkkah!
 
 # Hidden Item
-Item: Book
-Location: ~~~~
+* Item: Book
+* Location: <spoiler></spoiler>
 
 # Characters
 * [[UN Troll Soldiers]]

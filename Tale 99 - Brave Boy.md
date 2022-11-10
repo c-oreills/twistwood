@@ -8,8 +8,8 @@
 > (For those of you who caught this one here early a few days ago you are awarded 3 points. :D )
 
 # Hidden Item
-Item: Kite
-Location: ~~Panel 4, stuck in the tree~~
+* Item: Kite
+* Location: <spoiler>Panel 4, stuck in the tree</spoiler>
 
 # Characters
 * [[UN Candy Eating Boy]]

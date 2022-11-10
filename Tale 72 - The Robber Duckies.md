@@ -6,8 +6,8 @@
 > I really enjoyed designing that hot air balloon haha
 
 # Hidden Item
-Item: Ribbon
-Location: ~~~~
+* Item: Ribbon
+* Location: <spoiler></spoiler>
 
 # Characters
 * [[Fingers]]

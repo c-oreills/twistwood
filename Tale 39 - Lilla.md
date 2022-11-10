@@ -5,8 +5,8 @@
 > I love the sound of rain. Handy I live in Scotland!
 
 # Hidden Item
-Item: Keyhole
-Location: ~~~~
+* Item: Keyhole
+* Location: <spoiler></spoiler>
 
 # Characters
 * [[Lilla]]

@@ -5,8 +5,8 @@
 > Strawberry Soo the Scarecrow Girl has a good day.
 
 # Hidden Item
-Item: Jigsaw
-Location: ~~~~
+* Item: Jigsaw
+* Location: <spoiler></spoiler>
 
 # Characters
 * [[Strawberry Soo]]

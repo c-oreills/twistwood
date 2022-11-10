@@ -5,8 +5,8 @@
 > Well! It has been a while! Time to start uploading again 0_0
 
 # Hidden Item
-Item: Rug
-Location: ~~~~
+* Item: Rug
+* Location: <spoiler></spoiler>
 
 # Characters
 * [[UN Scrooge]]

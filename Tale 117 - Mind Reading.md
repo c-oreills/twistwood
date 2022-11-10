@@ -6,8 +6,8 @@
 > Long term readers might recognise a few of the characters in this one!)
 
 # Hidden Item
-Item: Three of Spades
-Location: ~~Panel 2, in Padlock's hand~~
+* Item: Three of Spades
+* Location: <spoiler>Panel 2, in Padlock's hand</spoiler>
 
 # Characters
 * [[Gilma]]

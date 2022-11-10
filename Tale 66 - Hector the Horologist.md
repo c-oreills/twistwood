@@ -7,8 +7,8 @@ Inspired by a sculpture in Glasgow^[[Instagram caption](https://www.instagram.co
 > Time keeps running away from me!
 
 # Hidden Item
-Item: Pencil
-Location: ~~~~
+* Item: Pencil
+* Location: <spoiler></spoiler>
 
 # Characters
 * [[Hector]]

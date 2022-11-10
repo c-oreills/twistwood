@@ -5,8 +5,8 @@
 > Whoopie!
 
 # Hidden Item
-Item: Star
-Location: ~~~~
+* Item: Star
+* Location: <spoiler></spoiler>
 
 # Characters
 * [[Minor Characters#Sleepy the Squirrel|Sleepy the Squirrel]]

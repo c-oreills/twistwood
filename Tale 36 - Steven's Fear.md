@@ -5,8 +5,8 @@
 > Bucket Boy and Jill go off to Sledge
 
 # Hidden Item
-Item: Mouse
-Location: ~~~~
+* Item: Mouse
+* Location: <spoiler></spoiler>
 
 # Characters
 * [[Jill]]

@@ -8,8 +8,8 @@ Beetles record
 > Elpie talks to Tofi about the old record she got from Grumm
 
 # Hidden Item
-Item: Clothes Peg
-Location: ~~~~
+* Item: Clothes Peg
+* Location: <spoiler></spoiler>
 
 # Characters
 * [[Elpie]]

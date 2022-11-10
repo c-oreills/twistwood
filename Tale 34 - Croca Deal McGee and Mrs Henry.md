@@ -5,8 +5,8 @@
 > Mrs Henry learns some top sales tips from Croca Deal McGee.
 
 # Hidden Item
-Item: Spanner
-Location: ~~~~
+* Item: Spanner
+* Location: <spoiler></spoiler>
 
 # Characters
 * [[Croca Deal McGee]]

@@ -8,8 +8,8 @@ This Tale has been cited as an example of something that would mark a pumpkin as
 > Gourdilocks has a plan!
 
 # Hidden Item
-Item: Alarm clock
-Location: ~~Panel 1, next to Elunar~~
+* Item: Alarm clock
+* Location: <spoiler>Panel 1, next to Elunar</spoiler>
 
 # Characters
 * [[Gourdilocks]]

@@ -5,8 +5,8 @@
 > I’ve heard that it’s not possible to sneeze in your sleep - I didn’t know this before, but also, i have no idea how to test it. Maybe I should learn to lucid dream?
 
 # Hidden Item
-Item: Fang
-Location: ~~~~
+* Item: Fang
+* Location: <spoiler></spoiler>
 
 # Characters
 * [[Loghead]]

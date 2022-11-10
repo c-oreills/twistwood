@@ -5,8 +5,8 @@
 > “The Hilltop House” Grim and Guster discuss approaches to being an artist.
 
 # Hidden Item
-Item: Paint pot
-Location: ~~Panel 1, Under table~~
+* Item: Paint pot
+* Location: <spoiler>Panel 1, Under table</spoiler>
 
 # Characters
 * [[Guster]]

@@ -5,8 +5,8 @@
 > Comedy Night! Pumpkin Kid, Sonny Boy and Eve Tuesday decide to check out Red Boots' show.
 
 # Hidden Item
-Item: Mushroom soup
-Location: ~~Panel 4, behind the bench~~
+* Item: Mushroom soup
+* Location: <spoiler>Panel 4, behind the bench</spoiler>
 
 # Characters
 * [[Pumpkin Kid]]

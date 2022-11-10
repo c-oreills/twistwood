@@ -5,8 +5,8 @@
 > Cuthbert and Clyde finally arrive in Twistwood’s Greater Tree forest, ready to begin research on the Twistwood Travel Guide book. Long time readers may recognise the train they have just been on ;)
 
 # Hidden Item
-Item: Newspaper
-Location: ~~Panel 1, being read by passenger in carriage 3~~
+* Item: Newspaper
+* Location: <spoiler>Panel 1, being read by passenger in carriage 3</spoiler>
 
 # Characters
 * [[Cuthbert]]

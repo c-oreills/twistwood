@@ -5,8 +5,8 @@
 > Strawberry Soo helps out.
 
 # Hidden Item
-Item: Funnel
-Location: ~~~~
+* Item: Funnel
+* Location: <spoiler></spoiler>
 
 # Characters
 * [[Gilma]]

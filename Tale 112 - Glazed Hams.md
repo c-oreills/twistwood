@@ -5,8 +5,8 @@
 > I read a comment which told me readers were missing out on the hidden item game because the top of the comic is concealed on mobile screens. Dang! Thanks to the reader who pointed this out! If you weren't aware you have a Find the Item game to play across the previous 100 or so strips (starting Episode 9) The item's description is hidden at the top of each comic's first panel.  Happy hunting!
 
 # Hidden Item
-Item: Moustache
-Location: ~~Panel 2, troll under "For"~~
+* Item: Moustache
+* Location: <spoiler>Panel 2, troll under "For"</spoiler>
 
 # Characters
 * [[UN Troll Soldiers]]

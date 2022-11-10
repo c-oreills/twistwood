@@ -5,8 +5,8 @@
 > Originally posted around the end of Autumn ;D
 
 # Hidden Item
-Item: Key
-Location: ~~Panel 2, on the box on the drawers~~
+* Item: Key
+* Location: <spoiler>Panel 2, on the box on the drawers</spoiler>
 
 # Characters
 * [[Henry]]

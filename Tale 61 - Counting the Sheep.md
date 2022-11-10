@@ -5,8 +5,8 @@
 > Sonny the Troll is invited to reconsider his strategy.
 
 # Hidden Item
-Item: Strawberry
-Location: ~~~~
+* Item: Strawberry
+* Location: <spoiler></spoiler>
 
 # Characters
 * [[Loghead]]

@@ -5,8 +5,8 @@
 > Fingers and Toes have a wee (duck safe) snack break!
 
 # Hidden Item
-Item: Snacks
-Location: ~~Panel 1, being eaten by Fingers and Toes~~
+* Item: Snacks
+* Location: <spoiler>Panel 1, being eaten by Fingers and Toes</spoiler>
 
 # Characters
 * [[Fingers]]

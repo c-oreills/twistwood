@@ -5,8 +5,8 @@
 > Over on my Patreon I have started the longer tale Bucket Boy and the Goblin Queen!
 
 # Hidden Item
-Item: Boomerang
-Location: ~~~~
+* Item: Boomerang
+* Location: <spoiler></spoiler>
 
 # Characters
 * [[Sonny Boy]]

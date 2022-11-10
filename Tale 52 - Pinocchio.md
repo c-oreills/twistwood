@@ -5,8 +5,8 @@
 > Pinocchio goes fis - uh - I mean, Pinocchio goes... reading...
 
 # Hidden Item
-Item: Ladybird
-Location: ~~~~
+* Item: Ladybird
+* Location: <spoiler></spoiler>
 
 # Characters
 * [[Gill]]

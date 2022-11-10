@@ -5,8 +5,8 @@
 > During the winter, Snowbell comes down from Snow Mountain to visit Flopie.
 
 # Hidden Item
-Item: Button
-Location: ~~~~
+* Item: Button
+* Location: <spoiler></spoiler>
 
 # Characters
 * [[UN Pig Bully Boy]]

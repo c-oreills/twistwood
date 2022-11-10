@@ -5,8 +5,8 @@
 > Rook and Button Witch have a wee chat.
 
 # Hidden Item
-Item: Pendant
-Location: ~~Panel 1, on Rook's neck~~
+* Item: Pendant
+* Location: <spoiler>Panel 1, on Rook's neck</spoiler>
 
 # Characters
 * [[Rook]]

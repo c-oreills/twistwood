@@ -5,8 +5,8 @@
 > Batta the Bacon Bat stirs up trouble for herself
 
 # Hidden Item
-Item: Pinecone
-Location: ~~~~
+* Item: Pinecone
+* Location: <spoiler></spoiler>
 
 # Characters
 * [[Batta]]

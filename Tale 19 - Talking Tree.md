@@ -5,8 +5,8 @@
 > Can&rsquo;t have nightmares if you cant sleep in the first place. Tactics.
 
 # Hidden Item
-Item: Apple
-Location: ~~~~
+* Item: Apple
+* Location: <spoiler></spoiler>
 
 # Characters
 * [[Talking Tree]]

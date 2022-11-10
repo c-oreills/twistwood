@@ -5,8 +5,8 @@
 > Better luck next time, Tater Sam!
 
 # Hidden Item
-Item: Sword
-Location: ~~~~
+* Item: Sword
+* Location: <spoiler></spoiler>
 
 # Characters
 * [[Padlock]]

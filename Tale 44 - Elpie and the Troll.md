@@ -6,8 +6,8 @@
 > Thank you everyone who has read Twistwood Tales this year! There are more to come in 2021! Hope to see you there! Happy Hogmany from here in Scotland!
 
 # Hidden Item
-Item: Fishbones
-Location: ~~~~
+* Item: Fishbones
+* Location: <spoiler></spoiler>
 
 # Characters
 * [[Grumm]]

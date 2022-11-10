@@ -5,8 +5,8 @@
 > Off they went to Snow Mountain, arriving just in time.
 
 # Hidden Item
-Item: 
-Location: ~~~~
+* Item: 
+* Location: <spoiler></spoiler>
 
 # Characters
 * [[Flopie]]

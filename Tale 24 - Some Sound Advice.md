@@ -5,8 +5,8 @@
 > Rock Girl gives Sofie some sound advice!
 
 # Hidden Item
-Item: Boat
-Location: ~~~~
+* Item: Boat
+* Location: <spoiler></spoiler>
 
 # Characters
 * [[Rose]]

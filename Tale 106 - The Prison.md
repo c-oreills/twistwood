@@ -5,8 +5,8 @@
 > 106! Dr Crowley and his apprentice René, discuss the vital role Doctors play in Twistwood Forest. You may already recognise the skeleton hunter from Twistwood Tale # 88 (and other Tales!)
 
 # Hidden Item
-Item: Cart wheel
-Location: ~~~~
+* Item: Cart wheel
+* Location: <spoiler></spoiler>
 
 # Characters
 * [[Dr Crowley]]

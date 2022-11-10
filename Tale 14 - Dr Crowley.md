@@ -1,5 +1,5 @@
 # Synopsis
-[[Dr Crowley]] is finishing stitching up the [[Wise Giant]]^[] when [[Wendy]] and [[Mendy]] call him.
+[[Dr Crowley]] is finishing stitching up the [[The Wise Giant]]^[[Instagram comment](https://www.instagram.com/p/B4GIhatDnti/) by @mx_margret: "Is he stitching up the giant who had the wolves inside of him? Did he remove them?"; response by @bytwistwood: "that's right! ^_^"] when [[Wendy]] and [[Mendy]] call him.
 
 # Caption
 > Any guesses for who is being stitched up? :D
@@ -10,7 +10,7 @@ Location: ~~~~
 
 # Characters
 * [[Dr Crowley]]
-* [[Wise Giant]]
+* [[The Wise Giant]]
 * [[Wendy]]
 * [[Mendy]]
 * [[Grim]]

@@ -10,7 +10,7 @@ Item: Three of Spades
 Location: ~~Panel 2, in Padlock's hand~~
 
 # Characters
-* [[UN Troll Soldiers]] Gilma
+* [[Gilma]]
 * [[Batta]]
 * [[UN Pig Self Centred]]
 * [[Padlock]]

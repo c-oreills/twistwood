@@ -12,7 +12,7 @@ Location: ~~Panel 2, in background with Dr Crowley~~
 * [[Wendy]]
 * [[Strawberry Soo]]
 * [[Dr Crowley]]
-* [[Wise Giant]]
+* [[The Wise Giant]]
 
 # External Links
 [Instagram](https://www.instagram.com/p/CS5YHADq1SN/?igshid=YmMyMTA2M2Y=)

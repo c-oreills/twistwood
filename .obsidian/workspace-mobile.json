@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tale 103 - Fishcake's Wish.md",
-                "mode": "preview",
+                "file": "Bagalini.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -23,11 +23,10 @@
             "id": "3513fcd2d09e8144",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "diff-view",
               "state": {
-                "file": "Majesticy.md",
-                "mode": "preview",
-                "source": false
+                "staged": false,
+                "file": "Tale 1 - When is Your Bedtime QM.md"
               }
             }
           }
@@ -43,7 +42,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Tale 103 - Fishcake's Wish.md",
+                "file": "Bagalini.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -138,7 +137,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Tale 103 - Fishcake's Wish.md",
+            "file": "Bagalini.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -155,7 +154,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Tale 103 - Fishcake's Wish.md",
+            "file": "Bagalini.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -167,24 +166,32 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Tale 103 - Fishcake's Wish.md"
+            "file": "Bagalini.md"
           }
+        }
+      },
+      {
+        "id": "b2d0a38df55cfc68",
+        "type": "leaf",
+        "state": {
+          "type": "git-view",
+          "state": {}
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 3
   },
   "active": "153ce19fbba975a4",
   "lastOpenFiles": [
-    "UN Gnomehat.md",
-    "Tale 63 - Winter Weirdo.md",
-    "Tale 61 - Counting the Sheep.md",
-    "UN Troll Kids.md",
-    "Tale 55 - The Goggles.md",
-    "Tale 44 - Elpie and the Troll.md",
-    "Tale 107 - Comedy Night.md",
-    "Liza.md",
-    "Majesticy.md",
-    "Tale 42 - Elpie.md"
+    "Templates/Tale.md",
+    "Bagalini.md",
+    "Templates/Character.md",
+    "Tale 117 - Mind Reading.md",
+    "Tale 1 - When is Your Bedtime QM.md",
+    "Tale 3 - A Near Disaster!.md",
+    "Bailey.md",
+    "Minor Characters.md",
+    "Padlock.md",
+    "Tale 2 - The Wise Giant.md"
   ]
 }

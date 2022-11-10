@@ -9,6 +9,7 @@ Item: Funnel
 Location: ~~~~
 
 # Characters
+* [[Gilma]]
 * [[UN Troll Soldiers]]
 * [[Dr Crowley]]
 * [[Strawberry Soo]]

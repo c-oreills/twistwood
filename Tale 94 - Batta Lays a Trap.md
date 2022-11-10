@@ -9,7 +9,7 @@ Item: Patch
 Location: ~~~~
 
 # Characters
-* [[UN Troll Soldiers]]
+* [[Gilma]]
 * [[Batta]]
 * [[Lisa]]
 * [[The Wretch]]

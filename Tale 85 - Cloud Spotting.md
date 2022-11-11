@@ -6,7 +6,7 @@
 
 # Hidden Item
 * Item: Crescent
-* Location: <spoiler></spoiler>
+* Location: <strike></strike>
 
 # Characters
 * [[Lisa]]

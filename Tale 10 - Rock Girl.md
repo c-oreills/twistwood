@@ -8,7 +8,7 @@ It's been commented by the author that by using his head to make a sandcastle, B
 
 # Hidden Item
 * Item: Bee
-* Location: <spoiler>Panel 3, in the grass</spoiler>
+* Location: <strike>Panel 3, in the grass</strike>
 
 # Characters
 * [[Bucket Boy]]

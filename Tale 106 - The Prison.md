@@ -6,7 +6,7 @@
 
 # Hidden Item
 * Item: Cart wheel
-* Location: <spoiler></spoiler>
+* Location: <strike></strike>
 
 # Characters
 * [[Dr Crowley]]

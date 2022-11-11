@@ -6,7 +6,7 @@
 
 # Hidden Item
 * Item: Carrot
-* Location: <spoiler>Panel 1, bottom left shelf on a book</spoiler>
+* Location: <strike>Panel 1, bottom left shelf on a book</strike>
 
 # Characters
 * [[Mr Wolf]]

@@ -6,7 +6,7 @@
 
 # Hidden Item
 * Item: Mushroom
-* Location: <spoiler></spoiler>
+* Location: <strike></strike>
 
 # Characters
 * [[Button]]

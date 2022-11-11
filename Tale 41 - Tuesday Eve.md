@@ -6,7 +6,7 @@
 
 # Hidden Item
 * Item: Bowtie
-* Location: <spoiler></spoiler>
+* Location: <strike></strike>
 
 # Characters
 * [[Eve]]

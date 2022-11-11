@@ -6,7 +6,7 @@
 
 # Hidden Item
 * Item: Snacks
-* Location: <spoiler>Panel 1, being eaten by Fingers and Toes</spoiler>
+* Location: <strike>Panel 1, being eaten by Fingers and Toes</strike>
 
 # Characters
 * [[Fingers]]

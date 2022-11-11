@@ -11,7 +11,7 @@ According to the author's Instagram comments, the woodpecker's style is an homag
 
 # Hidden Item
 * Item: Pumpkin
-* Location: <spoiler>Panel 2, in the leaves at the top</spoiler>
+* Location: <strike>Panel 2, in the leaves at the top</strike>
 
 # Characters
 * [[Loghead]]

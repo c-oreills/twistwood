@@ -9,7 +9,7 @@
 
 # Hidden Item
 * Item: Helmet
-* Location: <spoiler></spoiler>
+* Location: <strike></strike>
 
 # Characters
 * [[Charlie]]

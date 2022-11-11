@@ -6,7 +6,7 @@
 
 # Hidden Item
 * Item: Badge
-* Location: <spoiler></spoiler>
+* Location: <strike></strike>
 
 # Characters
 * [[Elunar]]

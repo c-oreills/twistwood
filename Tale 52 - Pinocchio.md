@@ -6,7 +6,7 @@
 
 # Hidden Item
 * Item: Ladybird
-* Location: <spoiler></spoiler>
+* Location: <strike></strike>
 
 # Characters
 * [[Gill]]

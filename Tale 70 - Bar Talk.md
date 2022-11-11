@@ -6,7 +6,7 @@
 
 # Hidden Item
 * Item: Leaf
-* Location: <spoiler></spoiler>
+* Location: <strike></strike>
 
 # Characters
 * [[Loghead]]

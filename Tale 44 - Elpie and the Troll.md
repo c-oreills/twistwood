@@ -7,7 +7,7 @@
 
 # Hidden Item
 * Item: Fishbones
-* Location: <spoiler></spoiler>
+* Location: <strike></strike>
 
 # Characters
 * [[Grumm]]

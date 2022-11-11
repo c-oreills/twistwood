@@ -6,7 +6,7 @@
 
 # Hidden Item
 * Item: Chalk
-* Location: <spoiler></spoiler>
+* Location: <strike></strike>
 
 # Characters
 * [[Guster]]

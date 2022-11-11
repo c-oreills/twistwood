@@ -6,7 +6,7 @@
 
 # Hidden Item
 * Item: Jetty
-* Location: <spoiler></spoiler>
+* Location: <strike></strike>
 
 # Characters
 * [[Lisa]]

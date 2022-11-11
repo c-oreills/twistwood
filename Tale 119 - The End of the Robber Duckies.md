@@ -7,7 +7,7 @@
 
 # Hidden Item
 * Item: Ace of Clubs
-* Location: <spoiler></spoiler>
+* Location: <strike></strike>
 
 # Characters
 * [[Fingers]]

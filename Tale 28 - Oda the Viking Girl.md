@@ -6,7 +6,7 @@
 
 # Hidden Item
 * Item: Cog
-* Location: <spoiler>Panel 4, behind the target</spoiler>
+* Location: <strike>Panel 4, behind the target</strike>
 
 # Characters
 * [[Oda]]

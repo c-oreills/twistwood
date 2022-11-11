@@ -6,7 +6,7 @@
 
 # Hidden Item
 * Item: Boomerang
-* Location: <spoiler></spoiler>
+* Location: <strike></strike>
 
 # Characters
 * [[Sonny Boy]]

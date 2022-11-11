@@ -6,7 +6,7 @@
 
 # Hidden Item
 * Item: Clubs
-* Location: <spoiler></spoiler>
+* Location: <strike></strike>
 
 # Characters
 * [[William]]

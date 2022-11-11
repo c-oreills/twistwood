@@ -6,7 +6,7 @@
 
 # Hidden Item
 * Item: Bow
-* Location: <spoiler></spoiler>
+* Location: <strike></strike>
 
 # Characters
 * [[Oaki Loki]]

@@ -13,7 +13,7 @@ The author has commented implying that Dr Crowley comes from a long line of doct
 
 # Hidden Item
 * Item: Pillow
-* Location: <spoiler></spoiler>
+* Location: <strike></strike>
 
 # Characters
 * [[Dr Crowley]]

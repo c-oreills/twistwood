@@ -6,7 +6,7 @@
 
 # Hidden Item
 * Item: Pinecone
-* Location: <spoiler></spoiler>
+* Location: <strike></strike>
 
 # Characters
 * [[Batta]]

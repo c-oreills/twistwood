@@ -6,7 +6,7 @@
 
 # Hidden Item
 * Item: Rook
-* Location: <spoiler>Panel 2, bottom right</spoiler>
+* Location: <strike>Panel 2, bottom right</strike>
 
 # Characters
 * [[Padlock]]

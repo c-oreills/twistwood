@@ -8,7 +8,7 @@
 
 # Hidden Item
 * Item: The door
-* Location: <spoiler>Panel 2, under Elunar's stepping stone</spoiler>
+* Location: <strike>Panel 2, under Elunar's stepping stone</strike>
 
 # Characters
 * [[Elunar]]

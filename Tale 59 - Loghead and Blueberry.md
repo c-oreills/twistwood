@@ -6,7 +6,7 @@
 
 # Hidden Item
 * Item: Toothbrush
-* Location: <spoiler></spoiler>
+* Location: <strike></strike>
 
 # Characters
 * [[Loghead]]

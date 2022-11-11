@@ -6,7 +6,7 @@
 
 # Hidden Item
 * Item: Shield
-* Location: <spoiler>Panel 4, next to the rock on the left</spoiler>
+* Location: <strike>Panel 4, next to the rock on the left</strike>
 
 # Characters
 * [[Brian "Cool Mole" McKole]]

@@ -6,7 +6,7 @@
 
 # Hidden Item
 * Item: Pendant
-* Location: <spoiler>Panel 1, on Rook's neck</spoiler>
+* Location: <strike>Panel 1, on Rook's neck</strike>
 
 # Characters
 * [[Rook]]

@@ -9,7 +9,7 @@ This Tale has been cited as an example of something that would mark a pumpkin as
 
 # Hidden Item
 * Item: Alarm clock
-* Location: <spoiler>Panel 1, next to Elunar</spoiler>
+* Location: <strike>Panel 1, next to Elunar</strike>
 
 # Characters
 * [[Gourdilocks]]

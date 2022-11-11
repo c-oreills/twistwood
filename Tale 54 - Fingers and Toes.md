@@ -6,7 +6,7 @@
 
 # Hidden Item
 * Item: Anchor
-* Location: <spoiler></spoiler>
+* Location: <strike></strike>
 
 # Characters
 * [[Fingers]]

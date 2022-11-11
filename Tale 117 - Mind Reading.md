@@ -7,7 +7,7 @@
 
 # Hidden Item
 * Item: Three of Spades
-* Location: <spoiler>Panel 2, in Padlock's hand</spoiler>
+* Location: <strike>Panel 2, in Padlock's hand</strike>
 
 # Characters
 * [[Gilma]]

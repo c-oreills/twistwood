@@ -6,7 +6,7 @@
 
 # Hidden Item
 * Item: Emerald
-* Location: <spoiler>Panel 1, bottom left</spoiler>
+* Location: <strike>Panel 1, bottom left</strike>
 
 # Characters
 * [[Toes]]

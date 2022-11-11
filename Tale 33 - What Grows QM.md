@@ -6,7 +6,7 @@
 
 # Hidden Item
 * Item: Diamond
-* Location: <spoiler></spoiler>
+* Location: <strike></strike>
 
 # Characters
 * [[The Farmer]]

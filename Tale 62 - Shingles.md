@@ -6,7 +6,7 @@
 
 # Hidden Item
 * Item: Jingle bells
-* Location: <spoiler></spoiler>
+* Location: <strike></strike>
 
 # Characters
 * [[Dr Crowley]]

@@ -6,7 +6,7 @@
 
 # Hidden Item
 * Item: Hook
-* Location: <spoiler>Panel 1, in King of Seal's tail</spoiler>
+* Location: <strike>Panel 1, in King of Seal's tail</strike>
 
 # Characters
 * [[Fishcake]]

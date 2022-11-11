@@ -6,7 +6,7 @@
 
 # Hidden Item
 * Item: Book
-* Location: <spoiler></spoiler>
+* Location: <strike></strike>
 
 # Characters
 * [[UN Troll Soldiers]]

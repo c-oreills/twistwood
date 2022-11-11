@@ -6,7 +6,7 @@
 
 # Hidden Item
 * Item: Peanut 
-* Location: <spoiler></spoiler>
+* Location: <strike></strike>
 
 # Characters
 * [[Professor Crisp]]

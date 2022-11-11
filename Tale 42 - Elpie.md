@@ -6,7 +6,7 @@
 
 # Hidden Item
 * Item: Cork
-* Location: <spoiler></spoiler>
+* Location: <strike></strike>
 
 # Characters
 * [[Mrs Inventor]]

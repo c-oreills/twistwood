@@ -6,7 +6,7 @@
 
 # Hidden Item
 * Item: Mouse
-* Location: <spoiler></spoiler>
+* Location: <strike></strike>
 
 # Characters
 * [[Jill]]

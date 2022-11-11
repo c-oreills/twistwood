@@ -6,7 +6,7 @@
 
 # Hidden Item
 * Item: Funnel
-* Location: <spoiler></spoiler>
+* Location: <strike></strike>
 
 # Characters
 * [[Gilma]]

@@ -6,7 +6,7 @@
 
 # Hidden Item
 * Item: Rug
-* Location: <spoiler></spoiler>
+* Location: <strike></strike>
 
 # Characters
 * [[UN Scrooge]]

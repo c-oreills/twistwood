@@ -6,7 +6,7 @@
 
 # Hidden Item
 * Item: Button
-* Location: <spoiler></spoiler>
+* Location: <strike></strike>
 
 # Characters
 * [[UN Pig Bully Boy]]

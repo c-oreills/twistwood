@@ -6,7 +6,7 @@
 
 # Hidden Item
 * Item: Wise Giant
-* Location: <spoiler>Panel 2, in background with Dr Crowley</spoiler>
+* Location: <strike>Panel 2, in background with Dr Crowley</strike>
 
 # Characters
 * [[Wendy]]

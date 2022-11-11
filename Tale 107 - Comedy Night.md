@@ -6,7 +6,7 @@
 
 # Hidden Item
 * Item: Mushroom soup
-* Location: <spoiler>Panel 4, behind the bench</spoiler>
+* Location: <strike>Panel 4, behind the bench</strike>
 
 # Characters
 * [[Pumpkin Kid]]

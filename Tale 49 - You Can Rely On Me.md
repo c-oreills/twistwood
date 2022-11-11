@@ -6,7 +6,7 @@
 
 # Hidden Item
 * Item: Ice Skate
-* Location: <spoiler></spoiler>
+* Location: <strike></strike>
 
 # Characters
 * [[Sprout]]

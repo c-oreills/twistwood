@@ -6,7 +6,7 @@
 
 # Hidden Item
 * Item: Pear
-* Location: <spoiler></spoiler>
+* Location: <strike></strike>
 
 # Characters
 * [[Majesticy]]

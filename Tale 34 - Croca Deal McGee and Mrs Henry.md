@@ -6,7 +6,7 @@
 
 # Hidden Item
 * Item: Spanner
-* Location: <spoiler></spoiler>
+* Location: <strike></strike>
 
 # Characters
 * [[Croca Deal McGee]]

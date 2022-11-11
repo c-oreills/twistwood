@@ -6,7 +6,7 @@
 
 # Hidden Item
 * Item: Daisy
-* Location: <spoiler></spoiler>
+* Location: <strike></strike>
 
 # Characters
 * [[Padlock]]

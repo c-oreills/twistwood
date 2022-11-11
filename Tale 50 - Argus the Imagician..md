@@ -6,7 +6,7 @@
 
 # Hidden Item
 * Item: [[Chester]]
-* Location: <spoiler>Panel 1, on Argus's canvas</spoiler>
+* Location: <strike>Panel 1, on Argus's canvas</strike>
 
 # Characters
 * [[Grim]]

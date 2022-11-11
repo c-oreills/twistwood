@@ -7,7 +7,7 @@
 
 # Hidden Item
 * Item: Ribbon
-* Location: <spoiler></spoiler>
+* Location: <strike></strike>
 
 # Characters
 * [[Fingers]]

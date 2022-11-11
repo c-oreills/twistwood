@@ -6,7 +6,7 @@
 
 # Hidden Item
 * Item: Biscuit
-* Location: <spoiler></spoiler>
+* Location: <strike></strike>
 
 # Characters
 * [[Mrs Bunion]]

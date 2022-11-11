@@ -6,7 +6,7 @@
 
 # Hidden Item
 * Item: Pliers
-* Location: <spoiler></spoiler>
+* Location: <strike></strike>
 
 # Characters
 * [[Detective Pines]]

@@ -8,7 +8,7 @@
 
 # Hidden Item
 * Item: Red button
-* Location: <spoiler>Panel 3, on Tater Sam's shirt</spoiler>
+* Location: <strike>Panel 3, on Tater Sam's shirt</strike>
 
 # Characters
 * [[Tater Sam]]

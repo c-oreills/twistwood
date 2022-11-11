@@ -6,7 +6,7 @@
 
 # Hidden Item
 * Item: Bookmark
-* Location: <spoiler>Panel 3, on the floor next to the table</spoiler>
+* Location: <strike>Panel 3, on the floor next to the table</strike>
 
 # Characters
 * [[Candibal]]

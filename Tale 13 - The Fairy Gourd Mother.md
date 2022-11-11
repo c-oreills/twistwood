@@ -21,7 +21,7 @@ This Tale is reposted at Hallowe'en to celebrate the holiday.
 
 # Hidden Item
 * Item: Sock
-* Location: <spoiler>Panel 4, at the bottom of the cage</spoiler>
+* Location: <strike>Panel 4, at the bottom of the cage</strike>
 
 # Characters
 * [[Pumpkin Kid]]

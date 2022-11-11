@@ -6,7 +6,7 @@
 
 # Hidden Item
 * Item: Tea Pot
-* Location: <spoiler>Panel 1, behind the wall</spoiler>
+* Location: <strike>Panel 1, behind the wall</strike>
 
 # Characters
 * [[UN Guards]]

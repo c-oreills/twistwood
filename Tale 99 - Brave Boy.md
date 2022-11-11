@@ -9,7 +9,7 @@
 
 # Hidden Item
 * Item: Kite
-* Location: <spoiler>Panel 4, stuck in the tree</spoiler>
+* Location: <strike>Panel 4, stuck in the tree</strike>
 
 # Characters
 * [[UN Candy Eating Boy]]

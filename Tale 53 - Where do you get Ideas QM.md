@@ -6,7 +6,7 @@
 
 # Hidden Item
 * Item: Wiggly worm
-* Location: <spoiler></spoiler>
+* Location: <strike></strike>
 
 # Characters
 * [[Argus]]

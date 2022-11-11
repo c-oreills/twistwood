@@ -6,7 +6,7 @@
 
 # Hidden Item
 * Item: Rattle
-* Location: <spoiler></spoiler>
+* Location: <strike></strike>
 
 # Characters
 * [[Clyde]]

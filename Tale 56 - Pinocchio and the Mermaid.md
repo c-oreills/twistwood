@@ -6,7 +6,7 @@
 
 # Hidden Item
 * Item: Eggs
-* Location: <spoiler></spoiler>
+* Location: <strike></strike>
 
 # Characters
 * [[Fishcake]]

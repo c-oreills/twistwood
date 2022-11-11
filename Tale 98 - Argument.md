@@ -6,7 +6,7 @@
 
 # Hidden Item
 * Item: Chisel
-* Location: <spoiler>Panel 4, behind Art Moose</spoiler>
+* Location: <strike>Panel 4, behind Art Moose</strike>
 
 # Characters
 * [[Argus]]

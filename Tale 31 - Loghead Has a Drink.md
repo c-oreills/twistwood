@@ -6,7 +6,7 @@
 
 # Hidden Item
 * Item: Swirl
-* Location: <spoiler></spoiler>
+* Location: <strike></strike>
 
 # Characters
 * [[Bar Fox]]

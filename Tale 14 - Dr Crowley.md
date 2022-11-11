@@ -6,7 +6,7 @@
 
 # Hidden Item
 * Item: Fork
-* Location: <spoiler></spoiler>
+* Location: <strike></strike>
 
 # Characters
 * [[Dr Crowley]]

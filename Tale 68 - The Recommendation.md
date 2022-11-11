@@ -6,7 +6,7 @@
 
 # Hidden Item
 * Item: Pipe
-* Location: <spoiler></spoiler>
+* Location: <strike></strike>
 
 # Characters
 * [[Bagalini]]

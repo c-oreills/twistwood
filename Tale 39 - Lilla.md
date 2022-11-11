@@ -6,7 +6,7 @@
 
 # Hidden Item
 * Item: Keyhole
-* Location: <spoiler></spoiler>
+* Location: <strike></strike>
 
 # Characters
 * [[Lilla]]

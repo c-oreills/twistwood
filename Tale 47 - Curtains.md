@@ -6,7 +6,7 @@
 
 # Hidden Item
 * Item: Eight
-* Location: <spoiler></spoiler>
+* Location: <strike></strike>
 
 # Characters
 * [[Wendy]]

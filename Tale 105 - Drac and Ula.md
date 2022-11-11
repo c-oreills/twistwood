@@ -7,7 +7,7 @@
 
 # Hidden Item
 * Item: Broken pocket watch
-* Location: <spoiler>Panel 4, coming out of Drac's pocket</spoiler>
+* Location: <strike>Panel 4, coming out of Drac's pocket</strike>
 
 # Characters
 * [[Ula]]

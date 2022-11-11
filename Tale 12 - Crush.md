@@ -13,7 +13,7 @@ The author has confirmed in Instagram comments that the hidden bear is the [[Bat
 
 # Hidden Item
 * Item: Bear
-* Location: <spoiler>Panel 2, behind the house</spoiler>
+* Location: <strike>Panel 2, behind the house</strike>
 
 # Characters
 * [[Rock Girl]]

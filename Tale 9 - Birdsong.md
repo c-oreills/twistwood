@@ -5,7 +5,7 @@ The bird retrieves his hat and briefcase from behind a chipped sword and flies h
 
 # Hidden Item
 * Item: Acorn
-* Location: <spoiler>Panel 4, on the right curtain</spoiler>
+* Location: <strike>Panel 4, on the right curtain</strike>
 
 # Characters
 * [[UN Warrior Lady]]

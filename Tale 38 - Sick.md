@@ -6,7 +6,7 @@
 
 # Hidden Item
 * Item: Spider
-* Location: <spoiler></spoiler>
+* Location: <strike></strike>
 
 # Characters
 * [[Hank]]

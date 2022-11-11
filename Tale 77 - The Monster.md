@@ -6,7 +6,7 @@
 
 # Hidden Item
 * Item: Handbag
-* Location: <spoiler></spoiler>
+* Location: <strike></strike>
 
 # Characters
 * [[Mary]]

@@ -5,7 +5,7 @@
 
 # Hidden Item
 * Item: [[Chester]]
-* Location: <spoiler>Panel 4, in the portrait behind Bailey's hand</spoiler>
+* Location: <strike>Panel 4, in the portrait behind Bailey's hand</strike>
 
 # Characters
 * [[Flopie]]

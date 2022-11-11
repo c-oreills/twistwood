@@ -6,7 +6,7 @@
 
 # Hidden Item
 * Item: Ink pen
-* Location: <spoiler></spoiler>
+* Location: <strike></strike>
 
 # Characters
 * [[Strawberry Soo]]

@@ -6,7 +6,7 @@
 
 # Hidden Item
 * Item: Star
-* Location: <spoiler></spoiler>
+* Location: <strike></strike>
 
 # Characters
 * [[Minor Characters#Sleepy the Squirrel|Sleepy the Squirrel]]

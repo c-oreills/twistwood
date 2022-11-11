@@ -6,7 +6,7 @@
 
 # Hidden Item
 * Item: Newspaper
-* Location: <spoiler>Panel 1, being read by passenger in carriage 3</spoiler>
+* Location: <strike>Panel 1, being read by passenger in carriage 3</strike>
 
 # Characters
 * [[Cuthbert]]

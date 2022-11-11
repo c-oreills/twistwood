@@ -6,7 +6,7 @@
 
 # Hidden Item
 * Item: Toy Soldier
-* Location: <spoiler></spoiler>
+* Location: <strike></strike>
 
 # Characters
 * [[Charlie]]

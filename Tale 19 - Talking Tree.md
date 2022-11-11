@@ -6,7 +6,7 @@
 
 # Hidden Item
 * Item: Apple
-* Location: <spoiler></spoiler>
+* Location: <strike></strike>
 
 # Characters
 * [[Talking Tree]]

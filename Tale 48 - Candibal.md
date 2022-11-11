@@ -6,7 +6,7 @@
 
 # Hidden Item
 * Item: Mug of Tea
-* Location: <spoiler></spoiler>
+* Location: <strike></strike>
 
 # Characters
 * [[Candibal]]

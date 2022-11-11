@@ -6,7 +6,7 @@
 
 # Hidden Item
 * Item: Earring
-* Location: <spoiler></spoiler>
+* Location: <strike></strike>
 
 # Characters
 * [[Dumpty Child]]

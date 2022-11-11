@@ -6,7 +6,7 @@
 
 # Hidden Item
 * Item: Wooden spoon
-* Location: <spoiler>Panel 3, in the Wretch's hand</spoiler>
+* Location: <strike>Panel 3, in the Wretch's hand</strike>
 
 # Characters
 * [[Lisa]]

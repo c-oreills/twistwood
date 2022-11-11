@@ -6,7 +6,7 @@
 
 # Hidden Item
 * Item: Match
-* Location: <spoiler>Panel 4, in René's hand</spoiler>
+* Location: <strike>Panel 4, in René's hand</strike>
 
 # Characters
 * [[Dr Crowley]]

@@ -6,7 +6,7 @@
 
 # Hidden Item
 * Item: Hot chocolate
-* Location: <spoiler></spoiler>
+* Location: <strike></strike>
 
 # Characters
 * [[UN Goose]]

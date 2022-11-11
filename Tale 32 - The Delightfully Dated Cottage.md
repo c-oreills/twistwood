@@ -6,7 +6,7 @@
 
 # Hidden Item
 * Item: Spoon
-* Location: <spoiler></spoiler>
+* Location: <strike></strike>
 
 # Characters
 * [[Jill]]

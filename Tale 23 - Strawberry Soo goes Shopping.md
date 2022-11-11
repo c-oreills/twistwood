@@ -6,7 +6,7 @@
 
 # Hidden Item
 * Item: Berries
-* Location: <spoiler></spoiler>
+* Location: <strike></strike>
 
 # Characters
 * [[Strawberry Soo]]

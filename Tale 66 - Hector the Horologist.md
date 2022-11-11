@@ -8,7 +8,7 @@ Inspired by a sculpture in Glasgow^[[Instagram caption](https://www.instagram.co
 
 # Hidden Item
 * Item: Pencil
-* Location: <spoiler></spoiler>
+* Location: <strike></strike>
 
 # Characters
 * [[Hector]]

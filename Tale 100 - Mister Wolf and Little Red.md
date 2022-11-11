@@ -6,7 +6,7 @@
 
 # Hidden Item
 * Item: Eye of [[Chester]]
-* Location: <spoiler>Panel 2, on the tree</spoiler>
+* Location: <strike>Panel 2, on the tree</strike>
 
 # Characters
 * [[Little Red]]

@@ -6,7 +6,7 @@
 
 # Hidden Item
 * Item: Dominoe (sic)
-* Location: <spoiler>Panel 1, in the grass</spoiler>
+* Location: <strike>Panel 1, in the grass</strike>
 
 # Characters
 * [[Oaki Loki]]

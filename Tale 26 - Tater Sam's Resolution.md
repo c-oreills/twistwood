@@ -6,7 +6,7 @@
 
 # Hidden Item
 * Item: Fish
-* Location: <spoiler></spoiler>
+* Location: <strike></strike>
 
 # Characters
 * [[Tater Sam]]

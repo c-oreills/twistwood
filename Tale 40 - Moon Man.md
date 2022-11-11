@@ -6,7 +6,7 @@
 
 # Hidden Item
 * Item: Toadstool
-* Location: <spoiler></spoiler>
+* Location: <strike></strike>
 
 # Characters
 * [[William]]

@@ -6,7 +6,7 @@
 
 # Hidden Item
 * Item: Paint pot
-* Location: <spoiler>Panel 1, Under table</spoiler>
+* Location: <strike>Panel 1, Under table</strike>
 
 # Characters
 * [[Guster]]

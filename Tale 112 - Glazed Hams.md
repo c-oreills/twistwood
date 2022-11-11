@@ -6,7 +6,7 @@
 
 # Hidden Item
 * Item: Moustache
-* Location: <spoiler>Panel 2, troll under "For"</spoiler>
+* Location: <strike>Panel 2, troll under "For"</strike>
 
 # Characters
 * [[UN Troll Soldiers]]

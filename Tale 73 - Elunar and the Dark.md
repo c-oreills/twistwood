@@ -6,7 +6,7 @@
 
 # Hidden Item
 * Item: Horseshoe
-* Location: <spoiler></spoiler>
+* Location: <strike></strike>
 
 # Characters
 * [[Elunar]]

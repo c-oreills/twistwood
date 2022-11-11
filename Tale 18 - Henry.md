@@ -6,7 +6,7 @@
 
 # Hidden Item
 * Item: Key
-* Location: <spoiler>Panel 2, on the box on the drawers</spoiler>
+* Location: <strike>Panel 2, on the box on the drawers</strike>
 
 # Characters
 * [[Henry]]

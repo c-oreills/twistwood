@@ -6,7 +6,7 @@
 
 # Hidden Item
 * Item: Flower
-* Location: <spoiler></spoiler>
+* Location: <strike></strike>
 
 # Characters
 * [[Bucket Boy]]

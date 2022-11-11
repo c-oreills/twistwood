@@ -6,7 +6,7 @@
 
 # Hidden Item
 * Item: Cornet
-* Location: <spoiler></spoiler>
+* Location: <strike></strike>
 
 # Characters
 * [[Bagalini]]

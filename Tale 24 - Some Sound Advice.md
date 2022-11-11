@@ -6,7 +6,7 @@
 
 # Hidden Item
 * Item: Boat
-* Location: <spoiler></spoiler>
+* Location: <strike></strike>
 
 # Characters
 * [[Rose]]

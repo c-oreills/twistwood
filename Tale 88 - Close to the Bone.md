@@ -8,7 +8,7 @@
 
 # Hidden Item
 * Item: Mr Goose
-* Location: <spoiler>Panel 2, tombstone on the left</spoiler>
+* Location: <strike>Panel 2, tombstone on the left</strike>
 
 # Characters
 * [[Redboots]]

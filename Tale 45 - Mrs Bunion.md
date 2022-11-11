@@ -6,7 +6,7 @@
 
 # Hidden Item
 * Item: Comb
-* Location: <spoiler></spoiler>
+* Location: <strike></strike>
 
 # Characters
 * [[Mrs Bunion]]

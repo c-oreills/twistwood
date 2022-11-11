@@ -6,7 +6,7 @@
 
 # Hidden Item
 * Item: Pawn
-* Location: <spoiler></spoiler>
+* Location: <strike></strike>
 
 # Characters
 * [[Dr Crowley]]

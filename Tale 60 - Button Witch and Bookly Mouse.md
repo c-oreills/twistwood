@@ -6,7 +6,7 @@
 
 # Hidden Item
 * Item: Skull
-* Location: <spoiler></spoiler>
+* Location: <strike></strike>
 
 # Characters
 * [[Bookly Mouse]]

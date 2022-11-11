@@ -8,7 +8,7 @@ Cow tools the Far Side https://en.m.wikipedia.org/wiki/Cow_Tools
 
 # Hidden Item
 * Item: The [[Moving Mirror]]
-* Location: <spoiler>Panel 3, behind the tree</spoiler>
+* Location: <strike>Panel 3, behind the tree</strike>
 
 # Characters
 * [[Gill]]

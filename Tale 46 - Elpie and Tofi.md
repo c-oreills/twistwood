@@ -9,7 +9,7 @@ Beetles record
 
 # Hidden Item
 * Item: Clothes Peg
-* Location: <spoiler></spoiler>
+* Location: <strike></strike>
 
 # Characters
 * [[Elpie]]

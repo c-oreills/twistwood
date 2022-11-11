@@ -6,7 +6,7 @@
 
 # Hidden Item
 * Item: 
-* Location: <spoiler></spoiler>
+* Location: <strike></strike>
 
 # Characters
 * [[Flopie]]

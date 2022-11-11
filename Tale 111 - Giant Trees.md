@@ -9,7 +9,7 @@
 * Location: <strike></strike>
 
 # Characters
-* [[UN Troll Soldiers]]
+* [[Minor Characters#Troll Soldiers|]]
 * [[Chief Horkkah]]
 
 # External Links

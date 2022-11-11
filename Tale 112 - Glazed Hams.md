@@ -9,7 +9,7 @@
 * Location: <strike>Panel 2, troll under "For"</strike>
 
 # Characters
-* [[UN Troll Soldiers]]
+* [[Minor Characters#Troll Soldiers|]]
 * [[Grekza]]
 * [[Daffodil]]
 

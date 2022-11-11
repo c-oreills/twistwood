@@ -9,9 +9,8 @@
 * Location: <strike>Panel 4, next to the rock on the left</strike>
 
 # Characters
-* [[Brian "Cool Mole" McKole]]
-* [[UN Orange Hat Lady]]
-* [[UN Police Dog]]
+* [[Minor Characters#Brian "Cool Mole" McKole and friend|]]
+* [[Minor Characters#Police Dog|]]
 
 # External Links
 * [Instagram](https://www.instagram.com/p/CTVm9p0qAl1/?igshid=YmMyMTA2M2Y=)

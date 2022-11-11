@@ -9,7 +9,7 @@
 * Location: <strike>Panel 1, behind the wall</strike>
 
 # Characters
-* [[UN Guards]]
+* [[Minor Characters#Guards|]]
 * [[Dumpty Child]]
 * [[Fingers]]
 * [[Toes]]

@@ -11,7 +11,7 @@
 # Characters
 * [[Argus]]
 * [[Grim]]
-* [[Art Moose]]
+* [[Minor Characters#Art Moose|]]
 * [[Guster]]
 
 # External Links

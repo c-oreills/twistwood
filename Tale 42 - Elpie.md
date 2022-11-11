@@ -11,7 +11,7 @@
 # Characters
 * [[Mrs Inventor]]
 * [[Elpie]]
-* [[UN Lovers]]
+* [[Minor Characters#Unfortunate Lovers|]]
  
 # External Links
 * [Instagram](https://www.instagram.com/p/CA3idMmDBkM/)

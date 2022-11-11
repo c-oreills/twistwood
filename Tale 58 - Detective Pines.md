@@ -9,8 +9,8 @@
 * Location: <strike></strike>
 
 # Characters
-* [[Detective Pines]]
-* [[UN Pet Supplies Owner Lady]]
+* [[Minor Characters#Detective Pines|]]
+* [[Minor Characters#Pet Supplies Lady|]]
 * [[Strawberry Soo]]
 
 # External Links

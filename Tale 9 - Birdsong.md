@@ -8,8 +8,7 @@ The bird retrieves his hat and briefcase from behind a chipped sword and flies h
 * Location: <strike>Panel 4, on the right curtain</strike>
 
 # Characters
-* [[UN Warrior Lady]]
-* [[UN Songbird]]
+* [[Minor Characters#Warrior Lady, Songbird and Marie|]]
 
 # External Links
 * [Instagram](https://www.instagram.com/p/B3MiugNDkla/)

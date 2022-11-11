@@ -13,7 +13,7 @@
 * [[Grumm]]
 * [[Elpie]]
 * [[Sonny Boy]]
-* [[UN Troll Kids]]
+* [[Minor Characters#Troll Kids|]]
 
 # External Links
 * [Instagram](https://www.instagram.com/p/CBeckJJD7zv/)

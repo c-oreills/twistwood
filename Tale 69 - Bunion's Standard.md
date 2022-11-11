@@ -10,7 +10,7 @@
 
 # Characters
 * [[Mrs Bunion]]
-* [[UN Lovers]]
+* [[Minor Characters#Unfortunate Lovers|]]
 
 # External Links
 * [Instagram](https://www.instagram.com/p/CJ4ZO6Kj_Mb/?igshid=YmMyMTA2M2Y=)

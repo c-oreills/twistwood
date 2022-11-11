@@ -16,7 +16,7 @@
 * [[Loghead]]
 * [[Bailey]]
 * [[Padlock]]
-* [[UN Tophat Blue Rabbit Flopie's Dad]]
+* [[Minor Characters#Flopie's Dad|]]
 
 # External Links
 * [Instagram](https://www.instagram.com/p/B8ZvC4sg8YA/)

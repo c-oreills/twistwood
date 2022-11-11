@@ -10,7 +10,7 @@
 
 # Characters
 * [[Charlie]]
-* [[UN Charlie's Mum]]
+* [[Minor Characters#Charlie's Family|Charlie's Mum]]
 * [[Eve]]
 
 # External Links

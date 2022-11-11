@@ -2,14 +2,14 @@
 
 
 # Caption
-> Can&rsquo;t have nightmares if you cant sleep in the first place. Tactics.
+> Can't have nightmares if you can't sleep in the first place. Tactics.
 
 # Hidden Item
 * Item: Apple
 * Location: <strike></strike>
 
 # Characters
-* [[Talking Tree]]
+* [[Minor Characters#Talking Tree|]]
 * [[Loghead]]
 
 # External Links

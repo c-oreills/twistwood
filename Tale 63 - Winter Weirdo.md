@@ -9,8 +9,7 @@
 * Location: <strike></strike>
 
 # Characters
-* [[UN Pig Bully Boy]]
-* [[UN Hedgehog Bully Girl]]
+* [[Minor Characters#Flopie's Bullies|]]
 * [[Flopie]]
 * [[Snowbell]]
 

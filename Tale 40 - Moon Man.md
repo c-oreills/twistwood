@@ -11,7 +11,7 @@
 # Characters
 * [[William]]
 * [[Grim]]
-* [[UN Troll Soldiers]]
+* [[Minor Characters#Troll Soldiers|]]
 
 # External Links
 * [Instagram](https://www.instagram.com/p/CAqnM74DP7R/)

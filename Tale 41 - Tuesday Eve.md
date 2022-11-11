@@ -10,7 +10,7 @@
 
 # Characters
 * [[Eve]]
-* [[UN Police Dog]]
+* [[Minor Characters#Police Dog|]]
 
 # External Links
 * [Instagram](https://www.instagram.com/p/CAv3_Z5D1GN/)

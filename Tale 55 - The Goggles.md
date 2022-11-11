@@ -10,7 +10,7 @@
 
 # Characters
 * [[Sonny Boy]]
-* [[UN Troll Kids]]
+* [[Minor Characters#Troll Kids|]]
 * [[Grim]]
 * [[Bucket Boy]] (mentioned)
 * [[Goblin Queen]]

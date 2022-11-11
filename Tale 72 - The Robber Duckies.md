@@ -12,7 +12,7 @@
 # Characters
 * [[Fingers]]
 * [[Toes]]
-* [[UN Police Dog]]
+* [[Minor Characters#Police Dog|]]
 
 # External Links
 * [Instagram](https://www.instagram.com/p/CKKnkeSDI2C/?igshid=YmMyMTA2M2Y=)

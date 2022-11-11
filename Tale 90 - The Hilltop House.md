@@ -11,7 +11,7 @@
 # Characters
 * [[Guster]]
 * [[Grim]]
-* [[Art Moose]]
+* [[Minor Characters#Art Moose|]]
 
 # External Links
 * [Instagram](https://www.instagram.com/p/CSSmMB4j9B9/?igshid=YmMyMTA2M2Y=)

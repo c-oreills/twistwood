@@ -11,7 +11,7 @@
 # Characters
 * [[Fishcake]]
 * [[King of Seals]]
-* [[UN Gnomehat]]
+* [[Minor Characters#Enchanted Pond Friends|Enchanted Pond Man]]
 
 # External Links
 * [Instagram](https://www.instagram.com/p/CYpPg14K5Li/?igshid=YmMyMTA2M2Y=)

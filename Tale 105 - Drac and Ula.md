@@ -10,8 +10,7 @@
 * Location: <strike>Panel 4, coming out of Drac's pocket</strike>
 
 # Characters
-* [[Ula]]
-* [[Drac]]
+* [[Minor Characters#Drac and Ula|]]
 
 # External Links
 * [Instagram](https://www.instagram.com/p/CaDVitiM_lu/?igshid=YmMyMTA2M2Y=)

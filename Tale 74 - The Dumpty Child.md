@@ -10,7 +10,7 @@
 
 # Characters
 * [[Dumpty Child]]
-* [[UN Guards]]
+* [[Minor Characters#Guards|]]
 
 # External Links
 * [Instagram](https://www.instagram.com/p/CMsihhKD79Z/?igshid=YmMyMTA2M2Y=)

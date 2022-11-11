@@ -10,7 +10,7 @@
 
 # Characters
 * [[Dr Crowley]]
-* [[UN Bald Moustache Man]]
+* [[Minor Characters#Dr Crowley's Patients|]]
 
 # External Links
 * [Instagram](https://www.instagram.com/p/CJEzBFZj38p/?igshid=YmMyMTA2M2Y=)

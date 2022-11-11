@@ -10,7 +10,7 @@
 
 # Characters
 * [[Gilma]]
-* [[UN Troll Soldiers]]
+* [[Minor Characters#Troll Soldiers|]]
 * [[Dr Crowley]]
 * [[Strawberry Soo]]
 * [[Wendy]]

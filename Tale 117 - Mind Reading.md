@@ -12,7 +12,7 @@
 # Characters
 * [[Gilma]]
 * [[Batta]]
-* [[UN Pig Self Centred]]
+* [[Minor Characters#Self Centred Pig|]]
 * [[Padlock]]
 * [[Bailey]]
 

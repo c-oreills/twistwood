@@ -11,7 +11,7 @@
 # Characters
 * [[Minor Characters#Flopie's Bullies|]]
 * [[Flopie]]
-* [[Snowbell]]
+* [[Minor Characters#Snowbell]]
 
 # External Links
 * [Instagram](https://www.instagram.com/p/CJKH0TyDkVL/?igshid=YmMyMTA2M2Y=)

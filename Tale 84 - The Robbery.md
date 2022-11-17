@@ -11,7 +11,7 @@
 # Characters
 * [[Toes]]
 * [[Fingers]]
-* [[UN Rich Traveller Lady]]
+* [[Minor Characters#Robber Ducky Victims|]]
 
 # External Links
 * [Instagram](https://www.instagram.com/p/CQzl10Hjgsy/?igshid=YmMyMTA2M2Y=)

@@ -11,7 +11,7 @@
 # Characters
 * [[Flopie]]
 * [[Rock Girl]]
-* [[Snowbell]]
+* [[Minor Characters#Snowbell]]
 * [[Jill]]
 * [[Bucket Boy]]
 * [[Steven]]

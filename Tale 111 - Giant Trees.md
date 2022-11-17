@@ -10,7 +10,7 @@
 
 # Characters
 * [[Minor Characters#Troll Soldiers|]]
-* [[Chief Horkkah]]
+* [[Minor Characters#Chief Horkkah|]]
 
 # External Links
 * [Instagram](https://www.instagram.com/p/CdqxgPbMlTt/?igshid=YmMyMTA2M2Y=)

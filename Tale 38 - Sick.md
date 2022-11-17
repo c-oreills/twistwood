@@ -9,7 +9,7 @@
 * Location: <strike></strike>
 
 # Characters
-* [[Hank]]
+* [[Minor Characters#Hank|]]
 * [[Dr Crowley]]
 * [[Sprout]]
 

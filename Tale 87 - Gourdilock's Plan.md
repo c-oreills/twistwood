@@ -12,10 +12,10 @@ This Tale has been cited as an example of something that would mark a pumpkin as
 * Location: <strike>Panel 1, next to Elunar</strike>
 
 # Characters
-* [[Gourdilocks]]
+* [[Minor Characters#Gourdilocks|]]
 * [[Pumpkin Kid]]
 * [[Elunar]]
-* [[Minor Characters#Fairy Gourd Mother]]
+* [[Minor Characters#Fairy Gourd Mother|]]
 
 # External Links
 * [Instagram](https://www.instagram.com/p/CR7glLtqhat/?igshid=YmMyMTA2M2Y=)

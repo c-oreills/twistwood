@@ -9,7 +9,7 @@
 * Location: <strike></strike>
 
 # Characters
-* [[Lilla]]
+* [[Minor Characters#Lilla]]
 * [[Padlock]]
 
 # External Links

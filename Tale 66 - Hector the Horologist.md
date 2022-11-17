@@ -11,7 +11,7 @@ Inspired by a sculpture in Glasgow^[[Instagram caption](https://www.instagram.co
 * Location: <strike></strike>
 
 # Characters
-* [[Hector]]
+* [[Minor Characters#Hector|]]
 * [[Sprout]]
 
 # External Links

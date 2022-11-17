@@ -10,7 +10,7 @@
 
 # Characters
 * [[Button]]
-* [[Rudolf]]
+* [[Minor Characters#Rudolf]]
 
 # External Links
 * [Instagram](https://www.instagram.com/p/B5yfNbcAoAj/)

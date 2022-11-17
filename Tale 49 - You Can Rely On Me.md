@@ -10,8 +10,7 @@
 
 # Characters
 * [[Sprout]]
-* [[Dead Lion]]
-* [[Procrastiknight]]
+* [[Minor Characters#Dead Lion and Procrastiknight]]
 
 # External Links
 * [Instagram](https://www.instagram.com/p/CDuKfj3DIZG/)

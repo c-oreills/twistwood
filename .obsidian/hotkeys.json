@@ -26,5 +26,14 @@
       ],
       "key": "A"
     }
+  ],
+  "obsidian-hotkeys-for-templates:Minor Char.md": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "R"
+    }
   ]
 }

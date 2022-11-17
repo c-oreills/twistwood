@@ -9,7 +9,7 @@
 * Location: <strike></strike>
 
 # Characters
-* [[Professor Crisp]]
+* [[Minor Characters#Professor Crisp]]
 * [[Eve]]
 
 # External Links

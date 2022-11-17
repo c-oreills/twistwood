@@ -10,7 +10,7 @@
 * Location: <strike></strike>
 
 # Characters
-* [[Grumm]]
+* [[Minor Characters#Grumm|]]
 * [[Elpie]]
 * [[Sonny Boy]]
 * [[Minor Characters#Troll Kids|]]

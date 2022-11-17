@@ -9,7 +9,7 @@
 * Location: <strike>Panel 1, on Rook's neck</strike>
 
 # Characters
-* [[Rook]]
+* [[Minor Characters#Rook|]]
 * [[Button]]
 
 # External Links

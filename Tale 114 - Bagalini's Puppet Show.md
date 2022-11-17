@@ -11,7 +11,7 @@
 # Characters
 * [[Bagalini]]
 * [[René]]
-* [[Nathan]]
+* [[Minor Characters#Nathan|]]
 * [[Sprout]]
 
 # External Links

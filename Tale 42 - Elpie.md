@@ -9,7 +9,7 @@
 * Location: <strike></strike>
 
 # Characters
-* [[Mrs Inventor]]
+* [[Minor Characters#Mrs Inventor]]
 * [[Elpie]]
 * [[Minor Characters#Unfortunate Lovers|]]
  

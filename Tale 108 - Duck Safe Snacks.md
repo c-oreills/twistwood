@@ -11,7 +11,7 @@
 # Characters
 * [[Fingers]]
 * [[Toes]]
-* [[UN Rich Man]]
+* [[Minor Characters#Robber Ducky Victims|]]
 
 # External Links
 * [Instagram](https://www.instagram.com/p/CclYJ4ps8AV/?igshid=YmMyMTA2M2Y=)

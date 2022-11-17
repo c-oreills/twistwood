@@ -12,9 +12,7 @@
 * Location: <strike></strike>
 
 # Characters
-* [[Hare]]
-* [[Tortoise]]
-* [[UN Hedgehog Lady]]
+* [[Minor Characters#Hare, Tortoise and Hedgehog Lady|]]
 
 # External Links
 * [Instagram](https://www.instagram.com/p/Cg2ZsPSsDXD/?igshid=YmMyMTA2M2Y=)

@@ -9,8 +9,8 @@
 * Location: <strike></strike>
 
 # Characters
-* [[UN Goose]]
-* [[Hank]]
+* [[Minor Characters#Talking Goose|]]
+* [[Minor Characters#Hank]]
 
 # External Links
 * [Instagram](https://www.instagram.com/p/CdY3AZlsBuW/?igshid=YmMyMTA2M2Y=)

@@ -12,7 +12,7 @@
 * [[Cuthbert]]
 * [[Clyde]]
 * [[Loghead]]
-* [[Carbohydragon]]
+* [[Minor Characters#Carbohydragon]]
 * [[Strawberry Soo]]
 
 # External Links

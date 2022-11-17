@@ -13,8 +13,8 @@
 
 # Characters
 * [[Charlie]]
-* [[UN Charlie's dad]]
-* [[UN Charlie's Monster]]
+* [[Minor Characters#Charlie's Family|Charlie's Dad]]
+* [[Minor Characters#Charlie's Monster|]]
 
 # External Links
 * [Instagram](https://www.instagram.com/p/CZC54FDK9KU/?igshid=YmMyMTA2M2Y=)

@@ -10,7 +10,7 @@
 
 # Characters
 * [[Henry]]
-* [[Jack Frost]]
+* [[Minor Characters#Jack Frost|]]
 
 # External Links
 * [Instagram](https://www.instagram.com/p/B43pxw2DMrN/)

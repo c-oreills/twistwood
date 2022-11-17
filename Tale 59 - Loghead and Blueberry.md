@@ -10,7 +10,7 @@
 
 # Characters
 * [[Loghead]]
-* [[Blueberry]]
+* [[Minor Characters#Blueberry|]]
 
 # External Links
 * [Instagram](https://www.instagram.com/p/CHOSOgXjl95/)

@@ -11,7 +11,7 @@
 # Characters
 * [[Oaki Loki]]
 * [[Knight Owl]]
-* [[Carbohydragon]]
+* [[Minor Characters#Carbohydragon]]
 
 # External Links
 * [Instagram](https://www.instagram.com/p/CQe0pItjjh_/?igshid=YmMyMTA2M2Y=)

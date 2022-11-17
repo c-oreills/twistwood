@@ -9,8 +9,7 @@
 * Location: <strike></strike>
 
 # Characters
-* [[UN Scrooge]]
-* [[Ghost of Christmas Past]]
+* [[Minor Characters#Ghost of Christmas Past and Scrooge|]]
 
 # External Links
 * [Instagram](https://www.instagram.com/p/CXt0cFDK_Sk/?igshid=YmMyMTA2M2Y=)

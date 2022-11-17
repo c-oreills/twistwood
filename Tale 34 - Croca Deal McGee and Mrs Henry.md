@@ -9,8 +9,8 @@
 * Location: <strike></strike>
 
 # Characters
-* [[Croca Deal McGee]]
-* [[Mrs Henry]]
+* [[Minor Characters#Croca Deal McGee]]
+* [[Minor Characters#Mrs Henry]]
 * [[Flopie]]
 
 # External Links

@@ -9,7 +9,7 @@
 * Location: <strike>Panel 4, behind the target</strike>
 
 # Characters
-* [[Oda]]
+* [[Minor Characters#Oda|]]
 * [[Oaki Loki]]
 * [[Grim]]
 * [[Dr Crowley]]

@@ -9,7 +9,7 @@
 * Location: <strike></strike>
 
 # Characters
-* [[Gill]]
+* [[Minor Characters#Gill]]
 * [[Pinocchio]]
 
 # External Links

@@ -12,7 +12,7 @@
 * Location: <strike>Panel 4, stuck in the tree</strike>
 
 # Characters
-* [[UN Candy Eating Boy]]
+* [[Minor Characters#Dr Crowley's Patients|]]
 * [[Dr Crowley]]
 
 # External Links
